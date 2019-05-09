@@ -46,6 +46,26 @@ false
 <p>Allow to edit gamerules via Admin Panel</p>
 </td></tr>
 <tr>
+<td><code>block.tap</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Node for taping blocks with the tree tap</p>
+</td></tr>
+<tr>
+<td><code>block.wrench</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Node for wrenching blocks</p>
+</td></tr>
+<tr>
 <td><code>command</code></td>
 <td><code>bool</code></td>
 <td class='false'><code>false</code></td>
@@ -708,12 +728,12 @@ false
 </td></tr>
 </table><br><table><tr><th>Available command nodes</th><th>Usage</th></tr>
 <tr><td><code>command.advancement</code></td><td>/advancement &lt;grant|revoke|test&gt; &lt;玩家&gt;</td></tr>
-<tr><td><code>command.appliedenergistics2.ae2</code></td><td>ae2提供的指令 - 输入/ae2 list查看指令列表,/ae2 help _____查看指令帮助.</td></tr>
+<tr><td><code>command.appliedenergistics2.ae2</code></td><td>AE2提供的指令——输入/ae2 list查看指令列表，/ae2 help _____查看指令帮助。</td></tr>
 <tr><td><code>command.astralsorcery.astralsorcery</code></td><td class='error' title='Invalid usage language key!'>/astralsorcery &lt;action&gt; [player] [arguments...]</td></tr>
 <tr><td><code>command.base.base.recipes.reload</code></td><td class='error' title='Invalid usage language key!'>Reloads the Recipe System</td></tr>
 <tr><td><code>command.baubles.baubles</code></td><td class='error' title='Invalid usage language key!'>/baubles &lt;action&gt; [&lt;player&gt; [&lt;params&gt;]]</td></tr>
 <tr><td><code>command.bdlib.dumpregistry</code></td><td>dumpregistry</td></tr>
-<tr><td><code>command.bdlib.oredistribution</code></td><td>/oredistribution &lt;radius&gt; [&lt;min height&gt;] [&lt;max height&gt;] [--file]</td></tr>
+<tr><td><code>command.bdlib.oredistribution</code></td><td>/oredistribution &lt;范围&gt; [&lt;最小高度&gt;] [&lt;最大高度&gt;] [--file]</td></tr>
 <tr><td><code>command.betterbuilderswands.wandoops</code></td><td class='error' title='Invalid usage language key!'>/wandOops</td></tr>
 <tr><td><code>command.bewitchment.activatefortune</code></td><td class='error' title='Invalid usage language key!'>/activateFortune</td></tr>
 <tr><td><code>command.bewitchment.chant</code></td><td class='error' title='Invalid usage language key!'>/chant [incantation]</td></tr>
@@ -721,18 +741,40 @@ false
 <tr><td><code>command.bewitchment.setfortune</code></td><td class='error' title='Invalid usage language key!'>/setFortune &lt;fortune&gt;</td></tr>
 <tr><td><code>command.bewitchment.settransformation</code></td><td class='error' title='Invalid usage language key!'>/setTransformation [path] [level]</td></tr>
 <tr><td><code>command.blockdata</code></td><td>/blockdata &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;数据标签&gt;</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.help.bind</code></td><td>/bloodmagic bind [true|false] [玩家] ("?" 或者 "help" 查看帮助)</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.help.network</code></td><td>/bloodmagic network [吸取(syphon)|添加(add)|查看(get)|填充(fill)|填满(cap)] &lt;玩家&gt; [数量]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.help.orb</code></td><td>/bloodmagic orb [设置(set)|查看(get)] &lt;玩家&gt; [等级] ("?" 或者 "help" 查看帮助)</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.help.ritual</code></td><td class='error' title='Invalid usage language key!'>null</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.help.teleposer</code></td><td>传送器 Teleposer Utilities ("?" or "help" for help)</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.network.help.add</code></td><td>/bloodmagic network add [玩家] [数量]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.network.help.cap</code></td><td>/bloodmagic network cap [玩家]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.network.help.fill</code></td><td>/bloodmagic network fill [玩家]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.network.help.get</code></td><td>/bloodmagic network get [玩家]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.network.help.set</code></td><td>/bloodmagic network set [玩家] [数量]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.network.help.syphon</code></td><td>/bloodmagic network syphon [玩家] [数量]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.network.help.tickethistory</code></td><td>commands.bloodmagic.network.tickethistory.usage</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.orb.help.get</code></td><td>/bloodmagic orb get [玩家|?|帮助]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.orb.help.set</code></td><td>/bloodmagic orb set [玩家|?|帮助]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.ritual.help.create</code></td><td>以脚下的主仪式石，建立指定仪式。默认无视其他方块。(可选参数: ([&lt;player&gt; (safe|true|false)] | [safe|true|false]))</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.ritual.help.repair</code></td><td>commands.bloodmagic.ritual.repair.usage</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.teleposer.help.list</code></td><td>/bloodmagic teleposer list [玩家|?|帮助]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.teleposer.help.remove</code></td><td>/bloodmagic teleposer remove [ID|?|帮助]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.teleposer.help.removeall</code></td><td>/bloodmagic teleposer removeall [玩家|?|帮助]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.teleposer.help.rmrf</code></td><td>/bloodmagic teleposer rmrf [ID|?|帮助]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.teleposer.help.teleport</code></td><td>/bloodmagic teleposer teleport [ID|?|帮助]</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.teleposer.help.teleportfocus</code></td><td>/bloodmagic teleposer teleportfocus [ID|?|帮助]</td></tr>
 <tr><td><code>command.botania.botania-open</code></td><td>&lt;entry&gt;</td></tr>
 <tr><td><code>command.botania.botania-share</code></td><td>&lt;entry&gt;</td></tr>
-<tr><td><code>command.botania_tweaks.botaniatweaks-debug-stats</code></td><td>/botaniatweaks-debug-stats [flowerName | all | total]</td></tr>
-<tr><td><code>command.botania_tweaks.botaniatweaks-reset-stats</code></td><td>/botaniatweaks-reset-stats [flowerName | all]</td></tr>
+<tr><td><code>command.botania_tweaks.botaniatweaks-debug-stats</code></td><td>用法：/botaniatweaks-debug-stats [flowerName | all | total]</td></tr>
+<tr><td><code>command.botania_tweaks.botaniatweaks-reset-stats</code></td><td>用法：/botaniatweaks-reset-stats [flowerName | all]</td></tr>
 <tr><td><code>command.clear</code></td><td>/clear [玩家] [物品] [数据] [最大量] [数据标签]</td></tr>
 <tr><td><code>command.clone</code></td><td>/clone &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; [掩码模式] [复制模式]</td></tr>
 <tr><td><code>command.cofhcore.cofh</code></td><td class='error' title='Invalid usage language key!'>/cofh help</td></tr>
-<tr><td><code>command.cofhworld.cofhworld.list</code></td><td>列出使用CoFHWorld的特性</td></tr>
-<tr><td><code>command.cofhworld.cofhworld.reload</code></td><td>重载CoFHWorld的配置文件</td></tr>
+<tr><td><code>command.cofhworld.cofhworld.list</code></td><td>列出 CoFH World 所有的功能</td></tr>
+<tr><td><code>command.cofhworld.cofhworld.reload</code></td><td>重新载入 CoFH World 配置</td></tr>
 <tr><td><code>command.cofhworld.cofhworld.version</code></td><td>cofhworld.version.usage</td></tr>
 <tr><td><code>command.compactmachines3.compactmachines3</code></td><td>/compactmachines3 [子命令，为命令列表留空]</td></tr>
-<tr><td><code>command.crafttweaker.crafttweaker</code></td><td class='error' title='Invalid usage language key!'>/crafttweaker biomeTypes | biomes | blockinfo | blockmaterial | blocks | bugs | conflict | copy | creativetab | discord | docs | dumpzs | enchants | entities | foods | give | hand | help | inventory | jeiCategories | json | liquids | log | materialparts | materials | mods | names | nbt | oredict | parts | parttypes | potions | recipeNames | recipes | reload | scripts | seeds | soundevent | soundtype | syntax | wiki | zslint</td></tr>
+<tr><td><code>command.crafttweaker.crafttweaker</code></td><td class='error' title='Invalid usage language key!'>/crafttweaker biomeTypes | biomes | blockinfo | blockmaterial | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | conflict | copy | creativetab | discord | docs | dumpzs | enchants | entities | foods | give | hand | help | inventory | jeiCategories | json | liquids | log | materialparts | materials | mods | names | nbt | oredict | parts | parttypes | potions | recipeNames | recipes | reload | scripts | seeds | soundevent | soundtype | syntax | thaumcraftDump | ticmat | wiki | zslint</td></tr>
 <tr><td><code>command.crafttweaker.ctgui</code></td><td class='error' title='Invalid usage language key!'>CTGUI &lt;id&gt;</td></tr>
 <tr><td><code>command.cyclopscore.cyclopscore</code></td><td class='error' title='Invalid usage language key!'>/cyclopscore &lt;ignite | debug | reloadresources | config | version | recursion&gt;</td></tr>
 <tr><td><code>command.cyclopscore.everlastingabilities</code></td><td class='error' title='Invalid usage language key!'>/everlastingabilities &lt;abilities | config | version&gt;</td></tr>
@@ -747,25 +789,25 @@ false
 <tr><td><code>command.execute</code></td><td>/execute &lt;实体&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;命令&gt; 或 /execute &lt;实体&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; detect &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;方块&gt; &lt;数据值|-1|状态|*&gt; &lt;命令&gt;|</td></tr>
 <tr><td><code>command.fill</code></td><td>/fill &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;方块名&gt; [数据值|状态] [旧方块处理方式] [数据标签]</td></tr>
 <tr><td><code>command.forge.dimensions</code></td><td>用法：/forge dimensions</td></tr>
-<tr><td><code>command.forge.entity.help.list</code></td><td>使用/forge entity list [filter] [dim]筛选符合给定条件的实体信息。</td></tr>
-<tr><td><code>command.forge.entity.list</code></td><td>使用/forge entity list [filter] [dim]筛选符合给定条件的实体信息。</td></tr>
-<tr><td><code>command.forge.generate</code></td><td>用法：/forge gen &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;区块数量&gt; [dimension] [interval]</td></tr>
+<tr><td><code>command.forge.entity.help.list</code></td><td>使用 /forge entity list [过滤器] [维度] 获取符合给定条件的实体信息。</td></tr>
+<tr><td><code>command.forge.entity.list</code></td><td>使用 /forge entity list [过滤器] [维度] 获取符合给定条件的实体信息。</td></tr>
+<tr><td><code>command.forge.generate</code></td><td>用法：/forge gen &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;区块数量&gt; [维度] [间隔]</td></tr>
 <tr><td><code>command.forge.help.dimensions</code></td><td>用法：/forge dimensions</td></tr>
-<tr><td><code>command.forge.help.entity</code></td><td>使用/forge entity help显示子命令entity的更多信息。</td></tr>
-<tr><td><code>command.forge.help.generate</code></td><td>用法：/forge gen &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;区块数量&gt; [dimension] [interval]</td></tr>
-<tr><td><code>command.forge.help.setdimension</code></td><td>用法：/forge setdim &lt;实体&gt; &lt;维度&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt;]</td></tr>
-<tr><td><code>command.forge.help.tps</code></td><td>用法：/forge tps [dimension]</td></tr>
-<tr><td><code>command.forge.help.track</code></td><td>使用/forge track help显示追踪子命令的更多信息。</td></tr>
-<tr><td><code>command.forge.setdimension</code></td><td>用法：/forge setdim &lt;实体&gt; &lt;维度&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt;]</td></tr>
-<tr><td><code>command.forge.tps</code></td><td>用法：/forge tps [dimension]</td></tr>
+<tr><td><code>command.forge.help.entity</code></td><td>使用 /forge entity help 显示子命令 entity 的更多信息。</td></tr>
+<tr><td><code>command.forge.help.generate</code></td><td>用法：/forge gen &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;区块数量&gt; [维度] [间隔]</td></tr>
+<tr><td><code>command.forge.help.setdimension</code></td><td>使用 /forge setdim &lt;entity&gt; &lt;维度&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt;]</td></tr>
+<tr><td><code>command.forge.help.tps</code></td><td>用法：/forge tps [维度]</td></tr>
+<tr><td><code>command.forge.help.track</code></td><td>使用 /forge track help 显示追踪子命令的更多信息。</td></tr>
+<tr><td><code>command.forge.setdimension</code></td><td>使用 /forge setdim &lt;entity&gt; &lt;维度&gt; [&lt;x&gt; &lt;y&gt; &lt;z&gt;]</td></tr>
+<tr><td><code>command.forge.tps</code></td><td>用法：/forge tps [维度]</td></tr>
 <tr><td><code>command.forge.track.entity</code></td><td>commands.forge.tracking.entity.usage</td></tr>
 <tr><td><code>command.forge.track.help.entity</code></td><td>commands.forge.tracking.entity.usage</td></tr>
-<tr><td><code>command.forge.track.help.reset</code></td><td>用法：/forge reset &lt;te|实体&gt;</td></tr>
-<tr><td><code>command.forge.track.help.start</code></td><td>用法：/forge track &lt;te|实体&gt; &lt;采样时间&gt;</td></tr>
-<tr><td><code>command.forge.track.help.te</code></td><td>用法：/forge track te</td></tr>
-<tr><td><code>command.forge.track.reset</code></td><td>用法：/forge reset &lt;te|实体&gt;</td></tr>
-<tr><td><code>command.forge.track.start</code></td><td>用法：/forge track &lt;te|实体&gt; &lt;采样时间&gt;</td></tr>
-<tr><td><code>command.forge.track.te</code></td><td>用法：/forge track te</td></tr>
+<tr><td><code>command.forge.track.help.reset</code></td><td>使用 /forge reset &lt;te|entity&gt;</td></tr>
+<tr><td><code>command.forge.track.help.start</code></td><td>使用 /forge track &lt;te|entity&gt; &lt;持续时间&gt;</td></tr>
+<tr><td><code>command.forge.track.help.te</code></td><td>使用 /forge track te</td></tr>
+<tr><td><code>command.forge.track.reset</code></td><td>使用 /forge reset &lt;te|entity&gt;</td></tr>
+<tr><td><code>command.forge.track.start</code></td><td>使用 /forge track &lt;te|entity&gt; &lt;持续时间&gt;</td></tr>
+<tr><td><code>command.forge.track.te</code></td><td>使用 /forge track te</td></tr>
 <tr><td><code>command.ftblib.my_settings</code></td><td>/my_settings &lt;设置id&gt; [值]</td></tr>
 <tr><td><code>command.ftblib.reload</code></td><td>/reload [*|domain:*|domain:id]</td></tr>
 <tr><td><code>command.ftblib.team.create</code></td><td>/team create &lt;id&gt; [颜色]</td></tr>
@@ -822,13 +864,22 @@ false
 <tr><td><code>command.ftbutilities.spawn</code></td><td>/spawn</td></tr>
 <tr><td><code>command.ftbutilities.tpa</code></td><td>/tpa &lt;玩家&gt;</td></tr>
 <tr><td><code>command.ftbutilities.tpaccept</code></td><td>/tpaccept &lt;玩家&gt;</td></tr>
-<tr><td><code>command.ftbutilities.tpl</code></td><td>/（&lt;x&gt; &lt;y&gt; &lt;z&gt;） | （[who] &lt;玩家&gt;）</td></tr>
+<tr><td><code>command.ftbutilities.tpl</code></td><td>/tpl (&lt;x&gt; &lt;y&gt; &lt;z&gt;) | ([who] &lt;玩家&gt;)</td></tr>
 <tr><td><code>command.ftbutilities.trash_can</code></td><td>/trash_can</td></tr>
 <tr><td><code>command.ftbutilities.unmute</code></td><td>/unmute &lt;玩家&gt;</td></tr>
 <tr><td><code>command.ftbutilities.warp</code></td><td>/warp &lt;gui|传送点&gt;</td></tr>
 <tr><td><code>command.function</code></td><td>/function &lt;名称&gt; [if &lt;选择器&gt;|unless &lt;选择器&gt;]</td></tr>
 <tr><td><code>command.gamemode</code></td><td>/gamemode &lt;模式&gt; [玩家]</td></tr>
 <tr><td><code>command.gamerule</code></td><td>/gamerule &lt;规则名称&gt; [值]</td></tr>
+<tr><td><code>command.gamestages.gamestage.add</code></td><td class='error' title='Invalid usage language key!'>/gamestage add &lt;player&gt; &lt;stage&gt;</td></tr>
+<tr><td><code>command.gamestages.gamestage.check</code></td><td class='error' title='Invalid usage language key!'>/gamestage check &lt;player&gt; &lt;stage&gt;</td></tr>
+<tr><td><code>command.gamestages.gamestage.clear</code></td><td class='error' title='Invalid usage language key!'>/gamestage clear &lt;player&gt;</td></tr>
+<tr><td><code>command.gamestages.gamestage.info</code></td><td class='error' title='Invalid usage language key!'>/gamestage info [player]</td></tr>
+<tr><td><code>command.gamestages.gamestage.jeicategories</code></td><td class='error' title='Invalid usage language key!'>/gamestage jeicategories</td></tr>
+<tr><td><code>command.gamestages.gamestage.reloadfakes</code></td><td class='error' title='Invalid usage language key!'>/gamestage reloadfakes</td></tr>
+<tr><td><code>command.gamestages.gamestage.remove</code></td><td class='error' title='Invalid usage language key!'>/gamestage remove &lt;player&gt; &lt;stage&gt;</td></tr>
+<tr><td><code>command.gamestages.gamestage.silentadd</code></td><td class='error' title='Invalid usage language key!'>/gamestage silentadd &lt;player&gt; &lt;stage&gt;</td></tr>
+<tr><td><code>command.gamestages.gamestage.silentremove</code></td><td class='error' title='Invalid usage language key!'>/gamestage silentremove &lt;player&gt; &lt;stage&gt;</td></tr>
 <tr><td><code>command.give</code></td><td>/give &lt;玩家&gt; &lt;物品&gt; [数量] [数据值] [数据标签]</td></tr>
 <tr><td><code>command.hammercore.hc_buildstr</code></td><td class='error' title='Invalid usage language key!'>Use /hc_buildstr &lt;structure, use TAB&gt;<br>/hc_buildstr &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;structure, use TAB&gt;</td></tr>
 <tr><td><code>command.hammercore.hc_export</code></td><td class='error' title='Invalid usage language key!'>/hc_export &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;name&gt; [save air]</td></tr>
@@ -844,7 +895,7 @@ false
 <tr><td><code>command.kill</code></td><td>/kill [玩家|实体]</td></tr>
 <tr><td><code>command.locate</code></td><td>/locate &lt;结构&gt;</td></tr>
 <tr><td><code>command.me</code></td><td>/me &lt;动作...&gt;</td></tr>
-<tr><td><code>command.naturesaura.naaura</code></td><td>/naaura store|drain &lt;amount&gt; [range]<br>/naaura reset &lt;range&gt;</td></tr>
+<tr><td><code>command.naturesaura.naaura</code></td><td>/naaura store|drain &lt;数量&gt; [范围] 或者 /naaura reset &lt;范围&gt;</td></tr>
 <tr><td><code>command.openmods.om_config_s</code></td><td class='error' title='Invalid usage language key!'>om_config_s save &lt;modid&gt; OR
 om_config_s help &lt;modid&gt; &lt;category&gt; &lt;name&gt; OR
 om_config_s get &lt;modid&gt; &lt;category&gt; &lt;name&gt; OR
@@ -858,9 +909,11 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.oreexcavation.undo_excavation</code></td><td class='error' title='Invalid usage language key!'>/undo_excavation</td></tr>
 <tr><td><code>command.particle</code></td><td>/particle &lt;粒子名称&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;xd&gt; &lt;yd&gt; &lt;zd&gt; &lt;速度&gt; [数量] [模式] [玩家] [参数]</td></tr>
 <tr><td><code>command.playsound</code></td><td>/playsound &lt;声音&gt; &lt;资源&gt; &lt;玩家&gt; [x] [y] [z] [音量] [音调] [最小音量]</td></tr>
-<tr><td><code>command.psi.psi-learn</code></td><td>/psi-learn &lt;group&gt; [player]</td></tr>
-<tr><td><code>command.psi.psi-unlearn</code></td><td>/psi-unlearn &lt;group&gt; [player]</td></tr>
+<tr><td><code>command.psi.psi-learn</code></td><td>/psi-learn &lt;权限组&gt; [玩家]</td></tr>
+<tr><td><code>command.psi.psi-unlearn</code></td><td>/psi-unlearn &lt;权限组&gt; [玩家]</td></tr>
 <tr><td><code>command.publish</code></td><td>/publish</td></tr>
+<tr><td><code>command.reborncore.rc_dumpmods</code></td><td>rc_dumpmods</td></tr>
+<tr><td><code>command.reborncore.rc_listrecipes</code></td><td>rc_listRecipes</td></tr>
 <tr><td><code>command.recipe</code></td><td>/recipe &lt;give|take&gt; [玩家] &lt;名字|*&gt;</td></tr>
 <tr><td><code>command.replaceitem</code></td><td>/replaceitem &lt;entity|block&gt; ...</td></tr>
 <tr><td><code>command.say</code></td><td>/say &lt;信息...&gt;</td></tr>
@@ -874,6 +927,7 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.stopsound</code></td><td>/stopsound &lt;玩家&gt; [声音来源] [声音]</td></tr>
 <tr><td><code>command.storagedrawers.storagedrawers</code></td><td>commands.storagedrawers.usage</td></tr>
 <tr><td><code>command.summon</code></td><td>/summon &lt;实体名&gt; [x] [y] [z] [数据标签]</td></tr>
+<tr><td><code>command.techreborn.trdev</code></td><td>用法：/forge &lt;子命令&gt;</td></tr>
 <tr><td><code>command.teleport</code></td><td>/teleport &lt;实体&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;y-rot&gt; &lt;x-rot&gt;]</td></tr>
 <tr><td><code>command.tell</code></td><td>/tell &lt;玩家&gt; &lt;私密信息...&gt;</td></tr>
 <tr><td><code>command.tellraw</code></td><td>/tellraw &lt;玩家&gt; &lt;原始json消息&gt;</td></tr>
@@ -885,26 +939,26 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.tinkertoolleveling.leveluptool</code></td><td class='error' title='Invalid usage language key!'>/levelupTool while holding a tinker tool in your hand</td></tr>
 <tr><td><code>command.title</code></td><td>/title &lt;玩家&gt; &lt;title|subtitle|actionbar|clear|reset|times&gt; …</td></tr>
 <tr><td><code>command.toggledownfall</code></td><td>/toggledownfall</td></tr>
-<tr><td><code>command.tombstone.tbknowledge</code></td><td>Sets the knowledge of death of a player
+<tr><td><code>command.tombstone.tbknowledge</code></td><td>为一名玩家设置其死神知识
 /tbknowledge &lt;player&gt; &lt;show|set|give|remove&gt; &lt;value&gt;</td></tr>
-<tr><td><code>command.tombstone.tbrecovery</code></td><td>Backups and restores players
-/tbrecovery &lt;save_all_players|save_player &lt;player&gt;|load_player&lt;player&gt; &lt;save&gt;&gt;</td></tr>
+<tr><td><code>command.tombstone.tbrecovery</code></td><td>备份并保存玩家
+/tbrecovery &lt;save_all_players|save_player &lt;玩家名&gt;|load_player&lt;玩家名&gt; &lt;save&gt;&gt;</td></tr>
 <tr><td><code>command.tombstone.tbrequestteleport</code></td><td>tombstone.command.tbrequestteleport.usage</td></tr>
-<tr><td><code>command.tombstone.tbrestoreinventory</code></td><td>Restores the player inventory with the last known grave
-/tbrestoreinventory [player]</td></tr>
-<tr><td><code>command.tombstone.tbshowlastgrave</code></td><td>Shows the position of the last known grave of a player
-/tbshowlastgrave [player]</td></tr>
-<tr><td><code>command.tombstone.tbsiege</code></td><td>Launches a village siege in the chosen dimension or your current one
+<tr><td><code>command.tombstone.tbrestoreinventory</code></td><td>用已知的最后那个坟墓恢复这个玩家的物品栏
+/tbrestoreinventory [玩家名]</td></tr>
+<tr><td><code>command.tombstone.tbshowlastgrave</code></td><td>展示最后一个已知的玩家坟墓
+/tbshowlastgrave [玩家名]</td></tr>
+<tr><td><code>command.tombstone.tbsiege</code></td><td>在所选择的维度或你当前的维度中发动村庄围攻
 /tbsiege [dim]</td></tr>
-<tr><td><code>command.tombstone.tbteleport</code></td><td>Dimensional teleport
-/tbteleport [entity] &lt;destination&gt;
-&lt;destination&gt; = &lt;targetEntity&gt; or &lt;x&gt; &lt;y&gt; &lt;z&gt; [dim]</td></tr>
-<tr><td><code>command.tombstone.tbteleportdiscovery</code></td><td>Teleports to an unexplored structure
-/tbteleportdiscovery &lt;entity&gt; [structure] [dim]</td></tr>
-<tr><td><code>command.tombstone.tbteleportgrave</code></td><td>Teleports to the last known grave of a player
-/tbteleportgrave [player] [playerGrave]</td></tr>
-<tr><td><code>command.tombstone.tbteleportvillage</code></td><td>Teleports to an explored village
-/tbteleportvillage &lt;entity&gt; &lt;value&gt;</td></tr>
+<tr><td><code>command.tombstone.tbteleport</code></td><td>跨维度传送
+/tbteleport [entity] &lt;目的地&gt;↵
+&lt;目的地&gt; = &lt;目标实体&gt;或&lt;x&gt; &lt;y&gt; &lt;z&gt; [维度]</td></tr>
+<tr><td><code>command.tombstone.tbteleportdiscovery</code></td><td>传送到一处未被探索的结构中
+/tbteleportdiscovery &lt;实体名称&gt; [结构名称] [维度]</td></tr>
+<tr><td><code>command.tombstone.tbteleportgrave</code></td><td>传送到最后一个已知的玩家坟墓
+/tbteleportgrave [玩家名] [坟墓名]</td></tr>
+<tr><td><code>command.tombstone.tbteleportvillage</code></td><td>传送到一个已知的村庄
+/tbteleportvillage &lt;实体名&gt; &lt;数值&gt;</td></tr>
 <tr><td><code>command.tp</code></td><td>/tp [目标玩家] &lt;目的地玩家&gt; 或 /tp [目标] &lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;横向朝向&gt; &lt;纵向朝向&gt;]</td></tr>
 <tr><td><code>command.trigger</code></td><td>/trigger &lt;记分项&gt; &lt;add|set&gt; &lt;值&gt;</td></tr>
 <tr><td><code>command.waila.dumphandlers</code></td><td class='error' title='Invalid usage language key!'>/dumphandlers</td></tr>

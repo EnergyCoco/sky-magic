@@ -88,6 +88,9 @@ key_key.hotbar.9:10
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
 key_keybind.baublesinventory:48
+key_bloodmagic.keybind.open_holding:35
+key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
+key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
 key_keybind.hammercorerenderstack:77
@@ -96,6 +99,7 @@ key_key.ironbackpacks.open:23
 key_psimisc.keybind:46
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:47
+key_key.open_wct.desc:0
 key_key.toggle_focus.desc:15
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -147,7 +151,13 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_key.i18nmod.main_key.desc:29
+key_key.i18nmod.report_key.desc:37
+key_key.i18nmod.weblate_key.desc:38
+key_key.i18nmod.mcmod_key.desc:50
+key_key.i18nmod.reload_key.desc:19
 key_key.categories.naming:49
+key_keys.techreborn.config:25
 key_tombstone.message.knowledge_of_death:0
 key_key.craftingGrid:46
 key_key.control:29

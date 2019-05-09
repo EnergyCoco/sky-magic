@@ -1,8 +1,8 @@
-[22:31:23] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[22:31:23] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[22:31:23] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[22:31:23] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
-[22:31:23] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.4, built with Forge 14.23.5.2768
+[22:34:25] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[22:34:25] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[22:34:25] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[22:34:25] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[22:34:25] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.4, built with Forge 14.23.5.2768
 Forge: 14.23.5.2836
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=zh_cn, locale=zh_cn
 Features: 
@@ -13,37 +13,37 @@ Features:
 	MapTopo : singleplayer = true , multiplayer = true
 	MapSurface : singleplayer = true , multiplayer = true
 	MapCaves : singleplayer = true , multiplayer = true
-MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.4, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=圆形, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=罗盘模式, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=屏幕右上, info1Label=Blank, fontScale=1}
-MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.4, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=矩形, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=罗盘模式, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=屏幕右上, info1Label=Blank, fontScale=1}
-FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.4, mobDisplay=Small Dots, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.4, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=游戏时间, sizePercent=30, showDayNight=true, info3Label=位置, showMobs=true, showPets=true, preferredMapType=night, showCompass=true, mobDisplay=小圆点, showReticle=true, orientation=北, shape=圆形, showSelf=true, info4Label=生物群系, locationFormat=xzyv, playerDisplay=小圆点, showGrid=true, reticleOrientation=罗盘模式, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=屏幕右上, info1Label=空, fontScale=1}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.4, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=游戏时间, sizePercent=30, showDayNight=true, info3Label=位置, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=小圆点, showReticle=true, orientation=北, shape=矩形, showSelf=true, info4Label=生物群系, locationFormat=xzyv, playerDisplay=小圆点, showGrid=true, reticleOrientation=罗盘模式, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=屏幕右上, info1Label=空, fontScale=1}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.4, mobDisplay=小圆点, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=小圆点, showGrid=true, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.4, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.4, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.4, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=圆形, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[22:31:23] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[22:31:23] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[22:31:23] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbutilities.integration.JourneyMapIntegration
-[22:31:23] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.teamacronymcoders.base.modules.journeymap.JourneyMapPlugin
-[22:31:23] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
-[22:31:28] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
-[22:31:28] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
-[22:31:28] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
-[22:31:28] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
-[22:31:28] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
-[22:31:28] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
-[22:31:28] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
-[22:31:28] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
-[22:31:28] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
-[22:31:28] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[22:31:28] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
-[22:31:29] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 71
-[22:31:29] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r737.32§8ms§r
-[22:33:13] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[22:33:13] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
-[22:33:13] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[22:33:13] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from E:\游戏\MultiMC\instances\1.12.22\.minecraft\journeymap\data\sp\~\waypoints
-[22:33:13] [Client thread/INFO] [JourneymapClient] Mapping started in E:\游戏\MultiMC\instances\1.12.22\.minecraft\journeymap\data\sp\~\DIM0. Memory: 6714MB total, 5448MB free 
-[22:33:13] [Client thread/INFO] [ChatLog] JourneyMap: 按下[J]键
-[22:34:52] [Client thread/INFO] [JourneymapClient] Mapping halted in E:\游戏\MultiMC\instances\1.12.22\.minecraft\journeymap\data\sp\~\DIM0
-[22:34:52] [Client thread/WARN] [ColorPalette] Existing color palette's mods no longer match current loadout.
-[22:34:52] [Client thread/INFO] [ColorPalette] WAS: Baubles:1.5.2, Botania:r1.10-361, CT-GUI:1.0.0, CraftTweaker JEI Support:2.0.3, CraftTweaker2:4.1.17, Forge Mod Loader:8.0.99.99, Hammer Core:2.0.4.5, JourneyMap:1.12.2-5.5.4, Just Enough Items:4.15.0.268, MTLib:3.0.6, ManaTweaks:1.4, Minecraft Coder Pack:9.42, Minecraft Forge:14.23.5.2836, Minecraft:1.12.2, Thaumcraft:6.1.BETA26, Thaumic Additions: Reconstructed:13r, Thaumic Augmentation:1.12.2-1.0.6
-NOW: Advanced Generators:0.9.20.12, AgriCraft:2.12.0-1.12.0-a6, Applied Energistics 2:rv6-stable-6, Astral Sorcery:1.10.17, AutoRegLib:1.3-28, B.A.S.E:3.12.1, BD Lib:1.14.3.12, Baubles:1.5.2, Better Builder's Wands:0.11.1, Bewitchment:@VERSION@, Botania Tweaks Core:-100, Botania Tweaks:1.8.5, Botania:r1.10-361, CT-GUI:1.0.0, Chameleon:1.12-4.1.3, Chisels & Bits:14.32, CoFH Core:4.6.2, CoFH World:1.3.0, CodeChicken Lib:3.2.2.353, Compact Machines 3:3.0.18, ContentTweaker:1.12.2-4.9.1, Corail Tombstone:3.3.6, CraftTweaker JEI Support:2.0.3, CraftTweaker2:4.1.17, Cucumber Library:1.1.3, Cyclops Core:1.2.0, Embers Rekindled:1.13-hotfix2, EnderStorage:2.4.5.135, EverlastingAbilities:1.5.0, FTB Library:5.4.1.99, FTB Utilities:5.4.0.96, FoamFix:0.10.5-1.12.2, FoamFixCore:7.7.4, Forge Microblocks:2.6.1.81, Forge Mod Loader:8.0.99.99, Forge Multipart CBE:2.6.1.81, Guide-API:1.12-2.1.8-63, Hammer Core:2.0.4.5, Industrial Foregoing:1.12.2-1.12.2, InfinityLib:1.12.2-1.12.0, Inventory Pets:2.0.1, Iron Backpacks:1.12.2-3.0.8-12, JourneyMap:1.12.2-5.5.4, Just Enough Items:4.15.0.268, LLibrary:1.7.19, LibrarianLib Stage 2:4.17, LibrarianLib:4.17, MCMultiPart:2.5.3, MTLib:3.0.6, Magical Psi:1.3, ManaTweaks:1.4, Mantle:1.12-1.3.3.49, McJtyLib:3.5.1, Minecraft Coder Pack:9.42, Minecraft Forge:14.23.5.2836, Minecraft Multipart Plugin:2.6.1.81, Minecraft:1.12.2, Mystical Agradditions:1.3.2, Mystical Agriculture:1.7.5, Mystical Gears:1.0.4, Mystical Mechanics:0.6, Nature's Aura:r17, OpenModsLib Core:0.12.2, OpenModsLib:0.12.2, OreExcavation:1.4.140, Patchouli:1.0-19, Placebo:1.6.0, Plants:2.10.7, Psi:r1.1-76, Redstone Arsenal:2.6.2, Redstone Flux:2.1.0, Redstone Repository:1.3.2, Shadowfacts' Forgelin:1.8.2, Soot:1.6, Storage Drawers:1.12-5.3.5, TamModized:0.15.6, Tesla Core Lib Registries:1.0.15, Tesla Core Lib:1.0.15, Thaumcraft:6.1.BETA26, Thaumic Additions: Reconstructed:13r, Thaumic Augmentation:1.12.2-1.0.6, Thermal Expansion:5.5.3, Thermal Foundation:2.6.2, Tinkers Tool Leveling:1.12.2-1.1.0.DEV.b23e769, Tinkers' Construct:1.12.2-2.12.0.135, Translocators:2.5.1.77, VoidCraft:0.26.10, Waila Harvestability:1.1.12, Waila:1.8.26, What Agricraft Stats Am I Looking At:1.0, Wizardry:0.9.9, primal_tech:0.3.4
+[22:34:25] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[22:34:25] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[22:34:25] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbutilities.integration.JourneyMapIntegration
+[22:34:25] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.teamacronymcoders.base.modules.journeymap.JourneyMapPlugin
+[22:34:25] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[22:34:32] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[22:34:32] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[22:34:32] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[22:34:32] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[22:34:32] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[22:34:32] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[22:34:32] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[22:34:32] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[22:34:32] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[22:34:32] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[22:34:32] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
+[22:34:33] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 71
+[22:34:33] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r714.77§8ms§r
+[22:35:13] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[22:35:13] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[22:35:13] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[22:35:14] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from E:\游戏\MultiMC\instances\sky-magic\.minecraft\journeymap\data\sp\~\waypoints
+[22:35:14] [Client thread/INFO] [JourneymapClient] Mapping started in E:\游戏\MultiMC\instances\sky-magic\.minecraft\journeymap\data\sp\~\DIM0. Memory: 6628MB total, 5384MB free 
+[22:35:14] [Client thread/INFO] [ChatLog] 旅行地图： 按下[J]键
+[22:36:30] [Client thread/INFO] [JourneymapClient] Mapping halted in E:\游戏\MultiMC\instances\sky-magic\.minecraft\journeymap\data\sp\~\DIM0
+[22:36:30] [Client thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
+[22:36:30] [Client thread/INFO] [ColorPalette] WAS: Default
+NOW: Minecraft-Mod-Language-Modpack.zip:zip
