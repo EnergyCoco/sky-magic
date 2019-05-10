@@ -1,1 +1,18 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "naturesaura:book": {
+      "viewedEntries": [
+        "naturesaura:creating/on_generating",
+        "naturesaura:practices/gold_trees"
+      ],
+      "bookmarks": [],
+      "history": [
+        "naturesaura:practices/gold_trees",
+        "naturesaura:creating/on_generating"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

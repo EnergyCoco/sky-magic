@@ -1,0 +1,11 @@
+{
+  "output": {
+    "item": "contenttweaker:mana_powder"
+  },
+  "input": {
+    "item": "minecraft:redstone"
+  },
+  "duration": 60,
+  "harp": true,
+  "bubbling": true
+}

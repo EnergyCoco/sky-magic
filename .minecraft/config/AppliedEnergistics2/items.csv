@@ -2123,10 +2123,6 @@ thaumadditions:salt_essence:0, 魔力盐
 thaumadditions:salt_essence:0, 魔力盐
 thaumadditions:salt_essence:0, 魔力盐
 thaumadditions:salt_essence:0, 魔力盐
-thaumadditions:salt_essence:0, 魔力盐
-thaumadditions:salt_essence:0, 魔力盐
-thaumadditions:salt_essence:0, 魔力盐
-thaumadditions:salt_essence:0, 魔力盐
 thaumadditions:dna_sample, 生物球
 thaumadditions:recharge_charm, 充能符咒
 thaumadditions:seal_symbol, 印记标记: @ASPECT
@@ -2857,89 +2853,6 @@ appliedenergistics2:facade:0, 线缆伪装板 - 三角纹褐岩石砖
 appliedenergistics2:facade:0, 线缆伪装板 - 细纹褐岩石砖
 appliedenergistics2:facade:0, 线缆伪装板 - 褐岩瓷砖块
 appliedenergistics2:facade:0, 线缆伪装板 - Psi粉块
-appliedenergistics2:facade:0, 线缆伪装板 - Infested Farmland
-appliedenergistics2:facade:0, 线缆伪装板 - Silver Ore
-appliedenergistics2:facade:0, 线缆伪装板 - Salt Ore
-appliedenergistics2:facade:0, 线缆伪装板 - Garnet Ore
-appliedenergistics2:facade:0, 线缆伪装板 - Nuummite Ore
-appliedenergistics2:facade:0, 线缆伪装板 - Tiger's Eye Ore
-appliedenergistics2:facade:0, 线缆伪装板 - Tourmaline Ore
-appliedenergistics2:facade:0, 线缆伪装板 - Bloodstone Ore
-appliedenergistics2:facade:0, 线缆伪装板 - Jasper Ore
-appliedenergistics2:facade:0, 线缆伪装板 - Malachite Ore
-appliedenergistics2:facade:0, 线缆伪装板 - Amethyst Ore
-appliedenergistics2:facade:0, 线缆伪装板 - Alexandrite Ore
-appliedenergistics2:facade:0, 线缆伪装板 - Perpetual Ice
-appliedenergistics2:facade:0, 线缆伪装板 - Witches Altar
-appliedenergistics2:facade:0, 线缆伪装板 - Purifying Earth
-appliedenergistics2:facade:0, 线缆伪装板 - Silver Block
-appliedenergistics2:facade:0, 线缆伪装板 - Silver Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Silver Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Silver Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Silver Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Silver Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Silver Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Silver Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Silver Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Silver Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Cold Iron Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Cold Iron Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Cold Iron Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Cold Iron Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Cold Iron Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Cold Iron Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Cold Iron Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Cold Iron Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Cold Iron Block (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Coquina (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Coquina (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Coquina (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Coquina (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Scorned Bricks (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Scorned Bricks (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Scorned Bricks (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Scorned Bricks (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Scorned Bricks (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Scorned Bricks (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Scorned Bricks (Chiseled)
-appliedenergistics2:facade:0, 线缆伪装板 - Cold Iron Block
-appliedenergistics2:facade:0, 线缆伪装板 - Nethersteel
-appliedenergistics2:facade:0, 线缆伪装板 - Garnet Block
-appliedenergistics2:facade:0, 线缆伪装板 - Nuummite Block
-appliedenergistics2:facade:0, 线缆伪装板 - Tiger's Eye Block
-appliedenergistics2:facade:0, 线缆伪装板 - Tourmaline Block
-appliedenergistics2:facade:0, 线缆伪装板 - Bloodstone Block
-appliedenergistics2:facade:0, 线缆伪装板 - Jasper Block
-appliedenergistics2:facade:0, 线缆伪装板 - Malachite Block
-appliedenergistics2:facade:0, 线缆伪装板 - Amethyst Block
-appliedenergistics2:facade:0, 线缆伪装板 - Alexandrite Block
-appliedenergistics2:facade:0, 线缆伪装板 - Coquina
-appliedenergistics2:facade:0, 线缆伪装板 - Embittered Bricks
-appliedenergistics2:facade:0, 线缆伪装板 - Scorned Bricks
-appliedenergistics2:facade:0, 线缆伪装板 - Graveyard Dirt
-appliedenergistics2:facade:0, 线缆伪装板 - Elder Wood
-appliedenergistics2:facade:0, 线缆伪装板 - Juniper Wood
-appliedenergistics2:facade:0, 线缆伪装板 - Yew Wood
-appliedenergistics2:facade:0, 线缆伪装板 - Cypress Wood
-appliedenergistics2:facade:0, 线缆伪装板 - Elder Leaves
-appliedenergistics2:facade:0, 线缆伪装板 - Juniper Leaves
-appliedenergistics2:facade:0, 线缆伪装板 - Yew Leaves
-appliedenergistics2:facade:0, 线缆伪装板 - Cypress Leaves
-appliedenergistics2:facade:0, 线缆伪装板 - Elder Wood Planks
-appliedenergistics2:facade:0, 线缆伪装板 - Juniper Wood Planks
-appliedenergistics2:facade:0, 线缆伪装板 - Yew Wood Planks
-appliedenergistics2:facade:0, 线缆伪装板 - Cypress Wood Planks
 appliedenergistics2:facade:0, 线缆伪装板 - 空白符文
 appliedenergistics2:facade:0, 线缆伪装板 - 速度符文
 appliedenergistics2:facade:0, 线缆伪装板 - 效率符文
@@ -3731,34 +3644,34 @@ tconstruct:slime_vine_purple_end:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple_mid:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple:0, 紫色史莱姆藤蔓
 tconstruct:pattern:0, 空白模具
-tconstruct:pattern:0, 箭杆模具
-tconstruct:pattern:0, 坚韧绑定结模具
-tconstruct:pattern:0, 箭头模具
-tconstruct:pattern:0, 斧刃模具
-tconstruct:pattern:0, 护手模具
-tconstruct:pattern:0, 碎片模具
-tconstruct:pattern:0, 十字柄模具
-tconstruct:pattern:0, 牌板模具
-tconstruct:pattern:0, 绑定结模具
-tconstruct:pattern:0, 手柄模具
 tconstruct:pattern:0, 开掘铲头模具
-tconstruct:pattern:0, 弓臂模具
-tconstruct:pattern:0, 坚韧手柄模具
-tconstruct:pattern:0, 镐头模具
 tconstruct:pattern:0, 铲头模具
-tconstruct:pattern:0, 宽护手模具
-tconstruct:pattern:0, 弓弦模具
-tconstruct:pattern:0, 磨制工具模具
-tconstruct:pattern:0, 宽斧刃模具
-tconstruct:pattern:0, 刀刃模具
-tconstruct:pattern:0, 锤头模具
-tconstruct:pattern:0, 剑刃模具
+tconstruct:pattern:0, 镰刀头模具
 tconstruct:pattern:0, 宽剑刃模具
 tconstruct:pattern:0, 园艺镰头模具
-tconstruct:pattern:0, 盘模具
-tconstruct:pattern:0, 大板模具
+tconstruct:pattern:0, 十字柄模具
+tconstruct:pattern:0, 斧刃模具
+tconstruct:pattern:0, 宽护手模具
+tconstruct:pattern:0, 箭头模具
+tconstruct:pattern:0, 锤头模具
 tconstruct:pattern:0, 箭羽模具
-tconstruct:pattern:0, 镰刀头模具
+tconstruct:pattern:0, 弓弦模具
+tconstruct:pattern:0, 剑刃模具
+tconstruct:pattern:0, 刀刃模具
+tconstruct:pattern:0, 手柄模具
+tconstruct:pattern:0, 大板模具
+tconstruct:pattern:0, 护手模具
+tconstruct:pattern:0, 宽斧刃模具
+tconstruct:pattern:0, 绑定结模具
+tconstruct:pattern:0, 坚韧手柄模具
+tconstruct:pattern:0, 箭杆模具
+tconstruct:pattern:0, 碎片模具
+tconstruct:pattern:0, 牌板模具
+tconstruct:pattern:0, 弓臂模具
+tconstruct:pattern:0, 镐头模具
+tconstruct:pattern:0, 磨制工具模具
+tconstruct:pattern:0, 盘模具
+tconstruct:pattern:0, 坚韧绑定结模具
 tconstruct:shard:0, 木 碎片
 tconstruct:shard:0, 圆石 碎片
 tconstruct:shard:0, 燧石 碎片
@@ -4785,62 +4698,62 @@ tconstruct:seared_stairs_road:0, 焦黑铺路石楼梯
 tconstruct:seared_stairs_tile:0, 焦黑瓷砖楼梯
 tconstruct:seared_stairs_creeper:0, 焦黑雕琢楼梯
 tconstruct:cast:0, 空白铸模
-tconstruct:cast:0, 坚韧绑定结铸模
-tconstruct:cast:0, 箭头铸模
-tconstruct:cast:0, 斧刃铸模
-tconstruct:cast:0, 护手铸模
-tconstruct:cast:0, 碎片铸模
-tconstruct:cast:0, 十字柄铸模
-tconstruct:cast:0, 牌板铸模
-tconstruct:cast:0, 绑定结铸模
-tconstruct:cast:0, 手柄铸模
 tconstruct:cast:0, 开掘铲头铸模
-tconstruct:cast:0, 弓臂铸模
-tconstruct:cast:0, 坚韧手柄铸模
-tconstruct:cast:0, 镐头铸模
 tconstruct:cast:0, 铲头铸模
-tconstruct:cast:0, 宽护手铸模
-tconstruct:cast:0, 磨制工具铸模
-tconstruct:cast:0, 宽斧刃铸模
-tconstruct:cast:0, 刀刃铸模
-tconstruct:cast:0, 锤头铸模
-tconstruct:cast:0, 剑刃铸模
+tconstruct:cast:0, 镰刀头铸模
 tconstruct:cast:0, 宽剑刃铸模
 tconstruct:cast:0, 园艺镰头铸模
-tconstruct:cast:0, 盘铸模
+tconstruct:cast:0, 十字柄铸模
+tconstruct:cast:0, 斧刃铸模
+tconstruct:cast:0, 宽护手铸模
+tconstruct:cast:0, 箭头铸模
+tconstruct:cast:0, 锤头铸模
+tconstruct:cast:0, 剑刃铸模
+tconstruct:cast:0, 刀刃铸模
+tconstruct:cast:0, 手柄铸模
 tconstruct:cast:0, 大板铸模
-tconstruct:cast:0, 镰刀头铸模
+tconstruct:cast:0, 护手铸模
+tconstruct:cast:0, 宽斧刃铸模
+tconstruct:cast:0, 绑定结铸模
+tconstruct:cast:0, 坚韧手柄铸模
+tconstruct:cast:0, 碎片铸模
+tconstruct:cast:0, 牌板铸模
+tconstruct:cast:0, 弓臂铸模
+tconstruct:cast:0, 镐头铸模
+tconstruct:cast:0, 磨制工具铸模
+tconstruct:cast:0, 盘铸模
+tconstruct:cast:0, 坚韧绑定结铸模
 tconstruct:cast_custom:0, 锭铸模
 tconstruct:cast_custom:1, 粒铸模
 tconstruct:cast_custom:2, 宝石铸模
 tconstruct:cast_custom:3, 板铸模
 tconstruct:cast_custom:4, 齿轮铸模
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
-tconstruct:clay_cast:0, 箭头粘土铸模
-tconstruct:clay_cast:0, 斧刃粘土铸模
-tconstruct:clay_cast:0, 护手粘土铸模
-tconstruct:clay_cast:0, 碎片粘土铸模
-tconstruct:clay_cast:0, 十字柄粘土铸模
-tconstruct:clay_cast:0, 牌板粘土铸模
-tconstruct:clay_cast:0, 绑定结粘土铸模
-tconstruct:clay_cast:0, 手柄粘土铸模
 tconstruct:clay_cast:0, 开掘铲头粘土铸模
-tconstruct:clay_cast:0, 弓臂粘土铸模
-tconstruct:clay_cast:0, 坚韧手柄粘土铸模
-tconstruct:clay_cast:0, 镐头粘土铸模
 tconstruct:clay_cast:0, 铲头粘土铸模
-tconstruct:clay_cast:0, 宽护手粘土铸模
-tconstruct:clay_cast:0, 磨制工具粘土铸模
-tconstruct:clay_cast:0, 宽斧刃粘土铸模
-tconstruct:clay_cast:0, 刀刃粘土铸模
-tconstruct:clay_cast:0, 锤头粘土铸模
-tconstruct:clay_cast:0, 剑刃粘土铸模
+tconstruct:clay_cast:0, 镰刀头粘土铸模
 tconstruct:clay_cast:0, 宽剑刃粘土铸模
 tconstruct:clay_cast:0, 园艺镰头粘土铸模
-tconstruct:clay_cast:0, 盘粘土铸模
+tconstruct:clay_cast:0, 十字柄粘土铸模
+tconstruct:clay_cast:0, 斧刃粘土铸模
+tconstruct:clay_cast:0, 宽护手粘土铸模
+tconstruct:clay_cast:0, 箭头粘土铸模
+tconstruct:clay_cast:0, 锤头粘土铸模
+tconstruct:clay_cast:0, 剑刃粘土铸模
+tconstruct:clay_cast:0, 刀刃粘土铸模
+tconstruct:clay_cast:0, 手柄粘土铸模
 tconstruct:clay_cast:0, 大板粘土铸模
-tconstruct:clay_cast:0, 镰刀头粘土铸模
+tconstruct:clay_cast:0, 护手粘土铸模
+tconstruct:clay_cast:0, 宽斧刃粘土铸模
+tconstruct:clay_cast:0, 绑定结粘土铸模
+tconstruct:clay_cast:0, 坚韧手柄粘土铸模
+tconstruct:clay_cast:0, 碎片粘土铸模
+tconstruct:clay_cast:0, 牌板粘土铸模
+tconstruct:clay_cast:0, 弓臂粘土铸模
+tconstruct:clay_cast:0, 镐头粘土铸模
+tconstruct:clay_cast:0, 磨制工具粘土铸模
+tconstruct:clay_cast:0, 盘粘土铸模
+tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
 tconstruct:stone_torch:0, 石柄火把
 tconstruct:stone_ladder:0, 石梯
 tconstruct:punji:0, 尖竹钉
@@ -4998,395 +4911,6 @@ psi:psi_decorative:5, 亮色Psi金属板
 psi:psi_decorative:6, 亮色Psi金属流光板
 psi:psi_decorative:7, 乌黑色Psi金属块
 psi:psi_decorative:8, 乳白色Psi金属块
-bewitchment:white_sage, White Sage
-bewitchment:wormwood, Wormwood
-bewitchment:silphium, Silphium
-bewitchment:mandrake_root, Mandrake Root
-bewitchment:garlic, Garlic
-bewitchment:tulsi, Tulsi
-bewitchment:kenaf, Kenaf
-bewitchment:mint, Mint
-bewitchment:hellebore, Hellebore
-bewitchment:chrysanthemum, Chrysanthemum
-bewitchment:sagebrush, Sagebrush
-bewitchment:infested_wheat, Infested Wheat
-bewitchment:belladonna, Belladonna
-bewitchment:aconitum, Aconitum
-bewitchment:asphodel, Asphodel
-bewitchment:lavender, Lavender
-bewitchment:thistle, Thistle
-bewitchment:ginger, Ginger
-bewitchment:kelp, Kelp
-bewitchment:seed_white_sage, White Sage Seeds
-bewitchment:seed_wormwood, Wormwood Seeds
-bewitchment:seed_silphium, Silphium Seeds
-bewitchment:seed_mandrake, Mandrake Seeds
-bewitchment:seed_garlic, Garlic Seeds
-bewitchment:seed_tulsi, Tulsi Seeds
-bewitchment:seed_kenaf, Kenaf Seeds
-bewitchment:seed_mint, Mint Seeds
-bewitchment:seed_hellebore, Hellebore Seeds
-bewitchment:seed_chrysanthemum, Chrysanthemum Seeds
-bewitchment:seed_sagebrush, Sagebrush Seeds
-bewitchment:witchweed, Witchweed
-bewitchment:seed_belladonna, Belladonna Seeds
-bewitchment:seed_aconitum, Aconitum Seeds
-bewitchment:seed_asphodel, Asphodel Seeds
-bewitchment:seed_lavender, Lavender Seeds
-bewitchment:seed_thistle, Thistle Seeds
-bewitchment:seed_ginger, Ginger Seeds
-bewitchment:seed_kelp, Kelp Spores
-bewitchment:gem:0, Garnet
-bewitchment:gem:1, Nuummite
-bewitchment:gem:2, Tiger's Eye
-bewitchment:gem:3, Tourmaline
-bewitchment:gem:4, Bloodstone
-bewitchment:gem:5, Jasper
-bewitchment:gem:6, Malachite
-bewitchment:gem:7, Amethyst
-bewitchment:gem:8, Alexandrite
-bewitchment:fume:0, Unfired Clay Jar
-bewitchment:fume:1, Empty Clay Jar
-bewitchment:fume:2, Oak Spirit
-bewitchment:fume:3, Birch Lotion
-bewitchment:fume:4, Acacia Resin
-bewitchment:fume:5, Spruce Heart
-bewitchment:fume:6, Cloudy Oil
-bewitchment:fume:7, Cleansing Balm
-bewitchment:fume:8, Philter of Dishonesty
-bewitchment:fume:9, Everchanging Dew
-bewitchment:fume:10, Undying Salve
-bewitchment:fume:11, Demonic Elixir
-bewitchment:fume:12, Otherworldy Tears
-bewitchment:fume:13, Fiery Unguent
-bewitchment:fume:14, Heaven Extract
-bewitchment:fume:15, Stone Ichor
-bewitchment:fume:16, Swirl of the Depths
-bewitchment:fume:17, Ebb of Death
-bewitchment:fume:18, Essence of Vitality
-bewitchment:fume:19, Droplet of Wisdom
-bewitchment:fume:20, Liquid Witchcraft
-bewitchment:gem_powder:0, Rough Garnet Powder
-bewitchment:gem_powder:1, Rough Nuummite Powder
-bewitchment:gem_powder:2, Rough Tiger's Eye Powder
-bewitchment:gem_powder:3, Rough Tourmaline Powder
-bewitchment:gem_powder:4, Rough Bloodstone Powder
-bewitchment:gem_powder:5, Rough Jasper Powder
-bewitchment:gem_powder:6, Rough Malachite Powder
-bewitchment:gem_powder:7, Rough Amethyst Powder
-bewitchment:gem_powder:8, Rough Alexandrite Powder
-bewitchment:cold_iron_ingot, Cold Iron Ingot
-bewitchment:silver_powder, Coarse Silver Powder
-bewitchment:silver_ingot, Silver Ingot
-bewitchment:silver_nugget, Silver Nugget
-bewitchment:spell_page:0, Spell of Far Reach
-bewitchment:spell_page:0, Spell of Punch
-bewitchment:spell_page:0, Spell of the Puddle
-bewitchment:spell_page:0, Spell of Telekinesis
-bewitchment:spell_page:0, Spell of the Tangled Feet
-bewitchment:spell_page:0, Spell of Lesser Blink
-bewitchment:spell_page:0, Spell of Blink
-bewitchment:spell_page:0, Spell of Destabilization
-bewitchment:spell_page:0, Spell of Disarming
-bewitchment:spell_page:0, Spell of the Gift
-bewitchment:spell_page:0, Spell of Restoration
-bewitchment:spell_page:0, Spell of the Tempest
-bewitchment:spell_page:0, Spell of Madness
-bewitchment:knowledge_fragment:0, Untranslated Knowledge Fragment
-bewitchment:honey, Honey
-bewitchment:salt, Salt
-bewitchment:wax, Wax
-bewitchment:honeycomb, Honeycomb
-bewitchment:empty_honeycomb, Empty Honeycomb
-bewitchment:mortar_and_pestle, Mortar and Pestle
-bewitchment:mortar_and_pestle_stone, Stone Mortar and Pestle
-bewitchment:empty_brew_drink, Empty Brew Phial
-bewitchment:empty_brew_splash, Empty Splash Brew Phial
-bewitchment:empty_brew_linger, Empty Lingering Brew Phial
-bewitchment:brew_arrow, Coated Arrow
-bewitchment:glass_jar, Glass Jar
-bewitchment:athame, Athame
-bewitchment:boline, Boline
-bewitchment:taglock, Taglock Kit
-bewitchment:needle_bone, Bone Needle
-bewitchment:wool_of_bat, Wool of Bat
-bewitchment:tongue_of_dog, Tongue of Dog
-bewitchment:wood_ash, Wood Ash
-bewitchment:ectoplasm, Ectoplasm
-bewitchment:spectral_dust, Spectral Dust
-bewitchment:demon_heart, Demonic Heart
-bewitchment:silver_scales, Silver Scales
-bewitchment:eye_of_old, Eye of Old
-bewitchment:envenomed_fang, Envenomed Fang
-bewitchment:dimensional_sand, Dimensional Sand
-bewitchment:chromatic_quill, Chromatic Quill
-bewitchment:carnivorous_tooth, Carnivorous Tooth
-bewitchment:eye_of_ancient, Eye of Ancient
-bewitchment:hoof, Hoof
-bewitchment:equine_tail, Equine's Tail
-bewitchment:catechu, Catechu Brown
-bewitchment:oak_apple_gall, Oak Apple Gall
-bewitchment:iron_gall_ink, Iron Gall Ink
-bewitchment:golden_thread, Golden Thread
-bewitchment:cold_iron_nugget, Cold Iron Nugget
-bewitchment:owlets_wing, Owlet's Wing
-bewitchment:ravens_feather, Raven's Feather
-bewitchment:cold_iron_dust, Coarse Cold Iron Powder
-bewitchment:cold_iron_dust_small, Cold Iron Dustpile
-bewitchment:regal_silk, Regal Silk
-bewitchment:witches_stitching, Witches Stitching
-bewitchment:diabolic_vein, Diabolic Vein
-bewitchment:pure_filament, Pure Filament
-bewitchment:soul_string, Soul String
-bewitchment:graveyard_dust, Graveyard Dust
-bewitchment:sanguine_fabric, Bloody Rags
-bewitchment:pentacle, Pentacle
-bewitchment:adders_fork, Adder's Fork
-bewitchment:filet_of_fenny_snake, Fillet of Fenny Snake
-bewitchment:snake_venom, Snake Venom
-bewitchment:toe_of_frog, Toe of Frog
-bewitchment:blindworms_sting, Blindworm's Sting
-bewitchment:lizard_leg, Lizard's Leg
-bewitchment:eye_of_newt, Eye of Newt
-bewitchment:quartz_powder, Rough Quartz Powder
-bewitchment:lapis_powder, Rough Lapis Powder
-bewitchment:uranid_venom, Liquid Wroth
-bewitchment:hellhound_horn, Hellhound Horn
-bewitchment:heart, Heart
-bewitchment:grilled_watermelon, Grilled Watermelon
-bewitchment:juniper_berries, Juniper Berries
-bewitchment:yew_aril, Yew Aril
-bewitchment:stew, Bowl of Stew
-bewitchment:ritual_chalk_normal, Ritual Chalk
-bewitchment:ritual_chalk_golden, Focal Chalk
-bewitchment:ritual_chalk_ender, Phasing Chalk
-bewitchment:ritual_chalk_nether, Fiery Chalk
-bewitchment:remedy_talisman, Token of Remedies
-bewitchment:magic_salve, Magic Salve
-bewitchment:location_stone, Waystone
-bewitchment:tarots, Tarots Deck
-bewitchment:broom:0, Broom
-bewitchment:broom:1, Elder Broom
-bewitchment:broom:2, Juniper Broom
-bewitchment:broom:3, Yew Broom
-bewitchment:broom:4, Cypress Broom
-bewitchment:nazar, Nazar
-bewitchment:horseshoe, Horseshoe
-bewitchment:triskelion_amulet, Triskelion Amulet
-bewitchment:hellish_bauble, Hellish Bauble
-bewitchment:wrathful_eye, Wrathful Eye
-bewitchment:talisman_aquamarine_crown, Aquamarine Crown
-bewitchment:talisman_adamantine_star_ring, Ring of the Adamantine Star
-bewitchment:talisman_emerald_pendant, Emerald Pendant
-bewitchment:talisman_ruby_orb, Scarlet Orb
-bewitchment:talisman_watching_eye, Everwatching Eye
-bewitchment:girdle_of_the_wooded, Girdle Of The Dryads
-bewitchment:mantle, Mantle
-bewitchment:pouch, Witches Pouch
-bewitchment:silver_pickaxe, Silver Pickaxe
-bewitchment:silver_axe, Silver Axe
-bewitchment:silver_spade, Silver Spade
-bewitchment:silver_hoe, Silver Hoe
-bewitchment:silver_sword, Silver Sword
-bewitchment:silver_helmet, Silver Helmet
-bewitchment:silver_chestplate, Silver Chestplate
-bewitchment:silver_leggings, Silver Leggings
-bewitchment:silver_boots, Silver Boots
-bewitchment:witches_hat, Witches Hat
-bewitchment:witches_robes, Witches Robes
-bewitchment:witches_pants, Witches Pants
-bewitchment:vampire_hat, Vampire's Hat
-bewitchment:vampire_vest, Vampire's Vest
-bewitchment:vampire_pants, Vampire's Pants
-bewitchment:cold_iron_sword, Cold Iron Sword
-bewitchment:cold_iron_axe, Cold Iron Axe
-bewitchment:cold_iron_hoe, Cold Iron Hoe
-bewitchment:cold_iron_pickaxe, Cold Iron Pickaxe
-bewitchment:cold_iron_spade, Cold Iron Spade
-bewitchment:witches_cowl, Witches Cowl
-bewitchment:cold_iron_helmet, Cold Iron Helmet
-bewitchment:cold_iron_chestplate, Cold Iron Chestplate
-bewitchment:cold_iron_leggings, Cold Iron Leggings
-bewitchment:cold_iron_boots, Cold Iron Boots
-bewitchment:candle_medium:0, Large White Candle
-bewitchment:candle_medium:1, Large Orange Candle
-bewitchment:candle_medium:2, Large Magenta Candle
-bewitchment:candle_medium:3, Large Light Blue Candle
-bewitchment:candle_medium:4, Large Yellow Candle
-bewitchment:candle_medium:5, Large Lime Candle
-bewitchment:candle_medium:6, Large Pink Candle
-bewitchment:candle_medium:7, Large Gray Candle
-bewitchment:candle_medium:8, Large Light Grey Candle
-bewitchment:candle_medium:9, Large Cyan Candle
-bewitchment:candle_medium:10, Large Purple Candle
-bewitchment:candle_medium:11, Large Blue Candle
-bewitchment:candle_medium:12, Large Brown Candle
-bewitchment:candle_medium:13, Large Green Candle
-bewitchment:candle_medium:14, Large Red Candle
-bewitchment:candle_medium:15, Large Black Candle
-bewitchment:candle_small:0, Small White Candle
-bewitchment:candle_small:1, Small Orange Candle
-bewitchment:candle_small:2, Small Magenta Candle
-bewitchment:candle_small:3, Small Light Blue Candle
-bewitchment:candle_small:4, Small Yellow Candle
-bewitchment:candle_small:5, Small Lime Candle
-bewitchment:candle_small:6, Small Pink Candle
-bewitchment:candle_small:7, Small Gray Candle
-bewitchment:candle_small:8, Small Light Grey Candle
-bewitchment:candle_small:9, Small Cyan Candle
-bewitchment:candle_small:10, Small Purple Candle
-bewitchment:candle_small:11, Small Blue Candle
-bewitchment:candle_small:12, Small Brown Candle
-bewitchment:candle_small:13, Small Green Candle
-bewitchment:candle_small:14, Small Red Candle
-bewitchment:candle_small:15, Small Black Candle
-bewitchment:fake_ice, Perpetual Ice
-bewitchment:fake_ice_fence, Perpetual Ice Fence
-bewitchment:fake_ice_stairs, Perpetual Ice Stairs
-bewitchment:embittered_bricks, Embittered Bricks
-bewitchment:scorned_bricks, Scorned Bricks
-bewitchment:scorned_brick_fence, Scorned Brick Fence
-bewitchment:scorned_brick_stairs, Scorned Brick Stairs
-bewitchment:embittered_brick_stairs, Embittered Brick Stairs
-bewitchment:embittered_brick_fence, Embittered Brick Fence
-bewitchment:cypress_stairs, Cypress Stairs
-bewitchment:yew_stairs, Yew Stairs
-bewitchment:juniper_stairs, Juniper Stairs
-bewitchment:elder_stairs, Elder Stairs
-bewitchment:gem_ore:0, Garnet Ore
-bewitchment:gem_ore:1, Nuummite Ore
-bewitchment:gem_ore:2, Tiger's Eye Ore
-bewitchment:gem_ore:3, Tourmaline Ore
-bewitchment:gem_ore:4, Bloodstone Ore
-bewitchment:gem_ore:5, Jasper Ore
-bewitchment:gem_ore:6, Malachite Ore
-bewitchment:gem_ore:7, Amethyst Ore
-bewitchment:gem_ore:8, Alexandrite Ore
-bewitchment:fake_ice_slab_half:0, Perpetual Ice Slab
-bewitchment:silver_block, Silver Block
-bewitchment:silver_ore, Silver Ore
-bewitchment:coquina, Coquina
-bewitchment:cauldron, Witches Cauldron
-bewitchment:oven, Oven
-bewitchment:distillery, Distillery
-bewitchment:apiary, Apiary
-bewitchment:brazier, Brazier
-bewitchment:torchwood, Torchwood
-bewitchment:ember_grass, Ember Grass
-bewitchment:beehive, Beehive
-bewitchment:gem_block:0, Garnet Block
-bewitchment:gem_block:1, Nuummite Block
-bewitchment:gem_block:2, Tiger's Eye Block
-bewitchment:gem_block:3, Tourmaline Block
-bewitchment:gem_block:4, Bloodstone Block
-bewitchment:gem_block:5, Jasper Block
-bewitchment:gem_block:6, Malachite Block
-bewitchment:gem_block:7, Amethyst Block
-bewitchment:gem_block:8, Alexandrite Block
-bewitchment:salt_ore, Salt Ore
-bewitchment:nethersteel, Nethersteel
-bewitchment:log_elder, Elder Wood
-bewitchment:log_juniper, Juniper Wood
-bewitchment:log_yew, Yew Wood
-bewitchment:log_cypress, Cypress Wood
-bewitchment:leaves_elder, Elder Leaves
-bewitchment:leaves_juniper, Juniper Leaves
-bewitchment:leaves_yew, Yew Leaves
-bewitchment:leaves_cypress, Cypress Leaves
-bewitchment:planks_elder, Elder Wood Planks
-bewitchment:planks_juniper, Juniper Wood Planks
-bewitchment:planks_yew, Yew Wood Planks
-bewitchment:planks_cypress, Cypress Wood Planks
-bewitchment:purifying_earth, Purifying Earth
-bewitchment:sapling:0, Elder Sapling
-bewitchment:sapling:1, Juniper Sapling
-bewitchment:sapling:2, Yew Sapling
-bewitchment:sapling:3, Cypress Sapling
-bewitchment:moonbell, Moonbell Flower
-bewitchment:witch_altar, Witches Altar
-bewitchment:thread_spinner, Loom
-bewitchment:infested_farmland, Infested Farmland
-bewitchment:crystal_ball, Crystal Ball
-bewitchment:goblet:0, Goblet
-bewitchment:goblet:1, Full Goblet
-bewitchment:gem_bowl, Gem Bowl
-bewitchment:magic_mirror, Magic Mirror
-bewitchment:tarot_table, Divination Table
-bewitchment:cold_iron_block, Cold Iron Block
-bewitchment:graveyard_dirt, Graveyard Dirt
-bewitchment:lantern:0, Lantern (White)
-bewitchment:lantern:1, Lantern (Orange)
-bewitchment:lantern:2, Lantern (Magenta)
-bewitchment:lantern:3, Lantern (Light Blue)
-bewitchment:lantern:4, Lantern (Yellow)
-bewitchment:lantern:5, Lantern (Lime)
-bewitchment:lantern:6, Lantern (Pink)
-bewitchment:lantern:7, Lantern (Gray)
-bewitchment:lantern:8, Lantern (Light Grey)
-bewitchment:lantern:9, Lantern (Cyan)
-bewitchment:lantern:10, Lantern (Purple)
-bewitchment:lantern:11, Lantern (Blue)
-bewitchment:lantern:12, Lantern (Brown)
-bewitchment:lantern:13, Lantern (Green)
-bewitchment:lantern:14, Lantern (Red)
-bewitchment:lantern:15, Lantern (Black)
-bewitchment:revealing_lantern:0, Revealing Lantern (White)
-bewitchment:revealing_lantern:1, Revealing Lantern (Orange)
-bewitchment:revealing_lantern:2, Revealing Lantern (Magenta)
-bewitchment:revealing_lantern:3, Revealing Lantern (Light Blue)
-bewitchment:revealing_lantern:4, Revealing Lantern (Yellow)
-bewitchment:revealing_lantern:5, Revealing Lantern (Lime)
-bewitchment:revealing_lantern:6, Revealing Lantern (Pink)
-bewitchment:revealing_lantern:7, Revealing Lantern (Gray)
-bewitchment:revealing_lantern:8, Revealing Lantern (Light Grey)
-bewitchment:revealing_lantern:9, Revealing Lantern (Cyan)
-bewitchment:revealing_lantern:10, Revealing Lantern (Purple)
-bewitchment:revealing_lantern:11, Revealing Lantern (Blue)
-bewitchment:revealing_lantern:12, Revealing Lantern (Brown)
-bewitchment:revealing_lantern:13, Revealing Lantern (Green)
-bewitchment:revealing_lantern:14, Revealing Lantern (Red)
-bewitchment:revealing_lantern:15, Revealing Lantern (Black)
-bewitchment:spanish_moss, Spanish Moss
-bewitchment:silver_block_chisel:0, Silver Block (Chiseled)
-bewitchment:silver_block_chisel:1, Silver Block (Chiseled)
-bewitchment:silver_block_chisel:2, Silver Block (Chiseled)
-bewitchment:silver_block_chisel:3, Silver Block (Chiseled)
-bewitchment:silver_block_chisel:4, Silver Block (Chiseled)
-bewitchment:silver_block_chisel:5, Silver Block (Chiseled)
-bewitchment:silver_block_chisel:6, Silver Block (Chiseled)
-bewitchment:silver_block_chisel:7, Silver Block (Chiseled)
-bewitchment:silver_block_chisel:8, Silver Block (Chiseled)
-bewitchment:cold_iron_block_chisel:0, Cold Iron Block (Chiseled)
-bewitchment:cold_iron_block_chisel:1, Cold Iron Block (Chiseled)
-bewitchment:cold_iron_block_chisel:2, Cold Iron Block (Chiseled)
-bewitchment:cold_iron_block_chisel:3, Cold Iron Block (Chiseled)
-bewitchment:cold_iron_block_chisel:4, Cold Iron Block (Chiseled)
-bewitchment:cold_iron_block_chisel:5, Cold Iron Block (Chiseled)
-bewitchment:cold_iron_block_chisel:6, Cold Iron Block (Chiseled)
-bewitchment:cold_iron_block_chisel:7, Cold Iron Block (Chiseled)
-bewitchment:cold_iron_block_chisel:8, Cold Iron Block (Chiseled)
-bewitchment:nethersteel_chisel:0, Nethersteel (Chiseled)
-bewitchment:nethersteel_chisel:1, Nethersteel (Chiseled)
-bewitchment:nethersteel_chisel:2, Nethersteel (Chiseled)
-bewitchment:nethersteel_chisel:3, Nethersteel (Chiseled)
-bewitchment:nethersteel_chisel:4, Nethersteel (Chiseled)
-bewitchment:nethersteel_chisel:5, Nethersteel (Chiseled)
-bewitchment:nethersteel_chisel:6, Nethersteel (Chiseled)
-bewitchment:nethersteel_chisel:7, Nethersteel (Chiseled)
-bewitchment:nethersteel_chisel:8, Nethersteel (Chiseled)
-bewitchment:nethersteel_chisel:9, Nethersteel (Chiseled)
-bewitchment:nethersteel_chisel:10, Nethersteel (Chiseled)
-bewitchment:coquina_chisel:0, Coquina (Chiseled)
-bewitchment:coquina_chisel:1, Coquina (Chiseled)
-bewitchment:coquina_chisel:2, Coquina (Chiseled)
-bewitchment:coquina_chisel:3, Coquina (Chiseled)
-bewitchment:scorned_bricks_chisel:0, Scorned Bricks (Chiseled)
-bewitchment:scorned_bricks_chisel:1, Scorned Bricks (Chiseled)
-bewitchment:scorned_bricks_chisel:2, Scorned Bricks (Chiseled)
-bewitchment:scorned_bricks_chisel:3, Scorned Bricks (Chiseled)
-bewitchment:scorned_bricks_chisel:4, Scorned Bricks (Chiseled)
-bewitchment:scorned_bricks_chisel:5, Scorned Bricks (Chiseled)
-bewitchment:scorned_bricks_chisel:6, Scorned Bricks (Chiseled)
 bloodmagic:altar, 血之祭坛
 bloodmagic:blood_rune:0, 空白符文
 bloodmagic:blood_rune:1, 速度符文
@@ -5830,10 +5354,6 @@ thaumcraft:phial:1, Desiderium 源质安瓿
 thaumcraft:phial:1, Exanimis 源质安瓿
 thaumcraft:phial:1, Bestia 源质安瓿
 thaumcraft:phial:1, Humanus 源质安瓿
-thaumcraft:phial:1, Sol 源质安瓿
-thaumcraft:phial:1, Luna 源质安瓿
-thaumcraft:phial:1, Stellae 源质安瓿
-thaumcraft:phial:1, Diabolus 源质安瓿
 thaumcraft:phial:1, Fluctus 源质安瓿
 thaumcraft:phial:1, Sonus 源质安瓿
 thaumcraft:phial:1, Exitium 源质安瓿
@@ -6271,169 +5791,6 @@ botania:altgrass:3, 焦草草地
 botania:altgrass:4, 注魔草地
 botania:altgrass:5, 异变草地
 botania:animatedtorch, tile.animatedTorch.name
-botania:livingwood0stairs, tile.livingwood0Stairs.name
-botania:livingwood0slab:0, 活木台阶
-botania:livingwood0wall, tile.livingwood0Wall.name
-botania:livingwood1stairs, tile.livingwood1Stairs.name
-botania:livingwood1slab:0, 活木台阶
-botania:livingrock0stairs, tile.livingrock0Stairs.name
-botania:livingrock0slab:0, 活石台阶
-botania:livingrock0wall, tile.livingrock0Wall.name
-botania:livingrock1stairs, tile.livingrock1Stairs.name
-botania:livingrock1slab:0, 活石砖台阶
-botania:dreamwood0stairs, tile.dreamwood0Stairs.name
-botania:dreamwood0slab:0, 梦之木台阶
-botania:dreamwood0wall, tile.dreamwood0Wall.name
-botania:dreamwood1stairs, tile.dreamwood1Stairs.name
-botania:dreamwood1slab:0, 梦之木台阶
-botania:quartztypedark:0, 烟熏石英块
-botania:quartztypedark:1, 錾制烟熏石英块
-botania:quartztypedark:2, 竖纹烟熏石英块
-botania:quartzslabdarkhalf:0, 烟熏石英台阶
-botania:quartzstairsdark, tile.quartzStairsDark.name
-botania:quartztypemana:0, 魔力石英块
-botania:quartztypemana:1, 錾制魔力石英块
-botania:quartztypemana:2, 竖纹魔力石英块
-botania:quartzslabmanahalf:0, 魔力石英台阶
-botania:quartzstairsmana, tile.quartzStairsMana.name
-botania:quartztypeblaze:0, 烈焰石英块
-botania:quartztypeblaze:1, 錾制烈焰石英块
-botania:quartztypeblaze:2, 竖纹烈焰石英块
-botania:quartzslabblazehalf:0, 烈焰石英台阶
-botania:quartzstairsblaze, tile.quartzStairsBlaze.name
-botania:quartztypelavender:0, 熏香石英块
-botania:quartztypelavender:1, 錾制熏香石英块
-botania:quartztypelavender:2, 竖纹熏香石英块
-botania:quartzslablavenderhalf:0, 熏香石英台阶
-botania:quartzstairslavender, tile.quartzStairsLavender.name
-botania:quartztypered:0, 红色石英块
-botania:quartztypered:1, 錾制红色石英块
-botania:quartztypered:2, 竖纹红色石英块
-botania:quartzslabredhalf:0, 红色石英台阶
-botania:quartzstairsred, tile.quartzStairsRed.name
-botania:quartztypeelf:0, 精灵石英块
-botania:quartztypeelf:1, 錾制精灵石英块
-botania:quartztypeelf:2, 竖纹精灵石英块
-botania:quartzslabelfhalf:0, 精灵石英台阶
-botania:quartzstairself, tile.quartzStairsElf.name
-botania:quartztypesunny:0, 金黄石英块
-botania:quartztypesunny:1, 錾制金黄石英块
-botania:quartztypesunny:2, 竖纹金黄石英块
-botania:quartzslabsunnyhalf:0, 金黄石英台阶
-botania:quartzstairssunny, tile.quartzStairsSunny.name
-botania:biomestonea:0, 变质森林石头
-botania:biomestonea:1, 变质平原石头
-botania:biomestonea:2, 变质高山石头
-botania:biomestonea:3, 变质菌丝石头
-botania:biomestonea:4, 变质沼泽石头
-botania:biomestonea:5, 变质沙漠石头
-botania:biomestonea:6, 变质雪原石头
-botania:biomestonea:7, 变质高原石头
-botania:biomestonea:8, 变质森林圆石
-botania:biomestonea:9, 变质平原圆石
-botania:biomestonea:10, 变质高山圆石
-botania:biomestonea:11, 变质菌丝圆石
-botania:biomestonea:12, 变质沼泽圆石
-botania:biomestonea:13, 变质沙漠圆石
-botania:biomestonea:14, 变质雪原圆石
-botania:biomestonea:15, 变质高原圆石
-botania:biomestoneb:0, 变质森林石砖
-botania:biomestoneb:1, 变质平原石砖
-botania:biomestoneb:2, 变质高山石砖
-botania:biomestoneb:3, 变质菌丝石砖
-botania:biomestoneb:4, 变质沼泽石砖
-botania:biomestoneb:5, 变质沙漠石砖
-botania:biomestoneb:6, 变质雪原石砖
-botania:biomestoneb:7, 变质高原石砖
-botania:biomestoneb:8, 錾制变质森林石砖
-botania:biomestoneb:9, 錾制变质平原石砖
-botania:biomestoneb:10, 錾制变质高山石砖
-botania:biomestoneb:11, 錾制变质菌丝石砖
-botania:biomestoneb:12, 錾制变质沼泽石砖
-botania:biomestoneb:13, 錾制变质沙漠石砖
-botania:biomestoneb:14, 錾制变质雪原石砖
-botania:biomestoneb:15, 錾制变质高原石砖
-botania:pavement:0, 白色葡萄牙路面
-botania:pavement:1, 黑色葡萄牙路面
-botania:pavement:2, 蓝色葡萄牙路面
-botania:pavement:3, 红色葡萄牙路面
-botania:pavement:4, 黄色葡萄牙路面
-botania:pavement:5, 绿色葡萄牙路面
-botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
-botania:biomestonea0slab:0, 变质森林石头台阶
-botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
-botania:biomestonea1slab:0, 变质平原石头台阶
-botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
-botania:biomestonea2slab:0, 变质高山石头台阶
-botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
-botania:biomestonea3slab:0, 变质菌丝石头台阶
-botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
-botania:biomestonea4slab:0, 变质沼泽石头台阶
-botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
-botania:biomestonea5slab:0, 变质沙漠石头台阶
-botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
-botania:biomestonea6slab:0, 变质雪原石头台阶
-botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
-botania:biomestonea7slab:0, 变质高原石头台阶
-botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
-botania:biomestonea8slab:0, 变质森林圆石台阶
-botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
-botania:biomestonea9slab:0, 变质平原圆石台阶
-botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
-botania:biomestonea10slab:0, 变质高山圆石台阶
-botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
-botania:biomestonea11slab:0, 变质菌丝圆石台阶
-botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
-botania:biomestonea12slab:0, 变质沼泽圆石台阶
-botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
-botania:biomestonea13slab:0, 变质沙漠圆石台阶
-botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
-botania:biomestonea14slab:0, 变质雪原圆石台阶
-botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
-botania:biomestonea15slab:0, 变质高原圆石台阶
-botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
-botania:biomestoneb0slab:0, 变质森林石砖台阶
-botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
-botania:biomestoneb1slab:0, 变质平原石砖台阶
-botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
-botania:biomestoneb2slab:0, 变质高山石砖台阶
-botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
-botania:biomestoneb3slab:0, 变质菌丝石砖台阶
-botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
-botania:biomestoneb4slab:0, 变质沼泽石砖台阶
-botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
-botania:biomestoneb5slab:0, 变质沙漠石砖台阶
-botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
-botania:biomestoneb6slab:0, 变质雪原石砖台阶
-botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
-botania:biomestoneb7slab:0, 变质高原石砖台阶
-botania:biomestonea0wall:0, 变质森林石墙
-botania:biomestonea0wall:1, 变质平原石墙
-botania:biomestonea0wall:2, 变质高山石墙
-botania:biomestonea0wall:3, 变质菌丝石墙
-botania:biomestonea0wall:4, 变质沼泽石墙
-botania:biomestonea0wall:5, 变质沙漠石墙
-botania:biomestonea0wall:6, 变质雪原石墙
-botania:biomestonea0wall:7, 变质高原石墙
-botania:pavement0stairs, tile.pavement0Stairs.name
-botania:pavement0slab:0, 白色葡萄牙台阶
-botania:pavement1stairs, tile.pavement1Stairs.name
-botania:pavement1slab:0, 黑色葡萄牙台阶
-botania:pavement2stairs, tile.pavement2Stairs.name
-botania:pavement2slab:0, 蓝色葡萄牙台阶
-botania:pavement3stairs, tile.pavement3Stairs.name
-botania:pavement3slab:0, 红色葡萄牙台阶
-botania:pavement4stairs, tile.pavement4Stairs.name
-botania:pavement4slab:0, 黄色葡萄牙台阶
-botania:pavement5stairs, tile.pavement5Stairs.name
-botania:pavement5slab:0, 绿色葡萄牙台阶
-botania:shimmerrock0slab:0, 微光石台阶
-botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
-botania:shimmerwoodplanks0slab:0, 微光木板台阶
-botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
-botania:managlasspane, tile.manaGlassPane.name
-botania:elfglasspane, tile.elfGlassPane.name
-botania:bifrostpermpane, tile.bifrostPermPane.name
 botania:lexicon, item.lexicon.name
 botania:petal:0, 白色神秘花瓣
 botania:petal:1, 橙色神秘花瓣
@@ -6769,6 +6126,169 @@ botania:supercloudpendant, item.superCloudPendant.name
 botania:thirdeye, item.thirdEye.name
 botania:astrolabe, item.astrolabe.name
 botania:goddesscharm, item.goddessCharm.name
+botania:livingwood0stairs, tile.livingwood0Stairs.name
+botania:livingwood0slab:0, 活木台阶
+botania:livingwood0wall, tile.livingwood0Wall.name
+botania:livingwood1stairs, tile.livingwood1Stairs.name
+botania:livingwood1slab:0, 活木台阶
+botania:livingrock0stairs, tile.livingrock0Stairs.name
+botania:livingrock0slab:0, 活石台阶
+botania:livingrock0wall, tile.livingrock0Wall.name
+botania:livingrock1stairs, tile.livingrock1Stairs.name
+botania:livingrock1slab:0, 活石砖台阶
+botania:dreamwood0stairs, tile.dreamwood0Stairs.name
+botania:dreamwood0slab:0, 梦之木台阶
+botania:dreamwood0wall, tile.dreamwood0Wall.name
+botania:dreamwood1stairs, tile.dreamwood1Stairs.name
+botania:dreamwood1slab:0, 梦之木台阶
+botania:quartztypedark:0, 烟熏石英块
+botania:quartztypedark:1, 錾制烟熏石英块
+botania:quartztypedark:2, 竖纹烟熏石英块
+botania:quartzslabdarkhalf:0, 烟熏石英台阶
+botania:quartzstairsdark, tile.quartzStairsDark.name
+botania:quartztypemana:0, 魔力石英块
+botania:quartztypemana:1, 錾制魔力石英块
+botania:quartztypemana:2, 竖纹魔力石英块
+botania:quartzslabmanahalf:0, 魔力石英台阶
+botania:quartzstairsmana, tile.quartzStairsMana.name
+botania:quartztypeblaze:0, 烈焰石英块
+botania:quartztypeblaze:1, 錾制烈焰石英块
+botania:quartztypeblaze:2, 竖纹烈焰石英块
+botania:quartzslabblazehalf:0, 烈焰石英台阶
+botania:quartzstairsblaze, tile.quartzStairsBlaze.name
+botania:quartztypelavender:0, 熏香石英块
+botania:quartztypelavender:1, 錾制熏香石英块
+botania:quartztypelavender:2, 竖纹熏香石英块
+botania:quartzslablavenderhalf:0, 熏香石英台阶
+botania:quartzstairslavender, tile.quartzStairsLavender.name
+botania:quartztypered:0, 红色石英块
+botania:quartztypered:1, 錾制红色石英块
+botania:quartztypered:2, 竖纹红色石英块
+botania:quartzslabredhalf:0, 红色石英台阶
+botania:quartzstairsred, tile.quartzStairsRed.name
+botania:quartztypeelf:0, 精灵石英块
+botania:quartztypeelf:1, 錾制精灵石英块
+botania:quartztypeelf:2, 竖纹精灵石英块
+botania:quartzslabelfhalf:0, 精灵石英台阶
+botania:quartzstairself, tile.quartzStairsElf.name
+botania:quartztypesunny:0, 金黄石英块
+botania:quartztypesunny:1, 錾制金黄石英块
+botania:quartztypesunny:2, 竖纹金黄石英块
+botania:quartzslabsunnyhalf:0, 金黄石英台阶
+botania:quartzstairssunny, tile.quartzStairsSunny.name
+botania:biomestonea:0, 变质森林石头
+botania:biomestonea:1, 变质平原石头
+botania:biomestonea:2, 变质高山石头
+botania:biomestonea:3, 变质菌丝石头
+botania:biomestonea:4, 变质沼泽石头
+botania:biomestonea:5, 变质沙漠石头
+botania:biomestonea:6, 变质雪原石头
+botania:biomestonea:7, 变质高原石头
+botania:biomestonea:8, 变质森林圆石
+botania:biomestonea:9, 变质平原圆石
+botania:biomestonea:10, 变质高山圆石
+botania:biomestonea:11, 变质菌丝圆石
+botania:biomestonea:12, 变质沼泽圆石
+botania:biomestonea:13, 变质沙漠圆石
+botania:biomestonea:14, 变质雪原圆石
+botania:biomestonea:15, 变质高原圆石
+botania:biomestoneb:0, 变质森林石砖
+botania:biomestoneb:1, 变质平原石砖
+botania:biomestoneb:2, 变质高山石砖
+botania:biomestoneb:3, 变质菌丝石砖
+botania:biomestoneb:4, 变质沼泽石砖
+botania:biomestoneb:5, 变质沙漠石砖
+botania:biomestoneb:6, 变质雪原石砖
+botania:biomestoneb:7, 变质高原石砖
+botania:biomestoneb:8, 錾制变质森林石砖
+botania:biomestoneb:9, 錾制变质平原石砖
+botania:biomestoneb:10, 錾制变质高山石砖
+botania:biomestoneb:11, 錾制变质菌丝石砖
+botania:biomestoneb:12, 錾制变质沼泽石砖
+botania:biomestoneb:13, 錾制变质沙漠石砖
+botania:biomestoneb:14, 錾制变质雪原石砖
+botania:biomestoneb:15, 錾制变质高原石砖
+botania:pavement:0, 白色葡萄牙路面
+botania:pavement:1, 黑色葡萄牙路面
+botania:pavement:2, 蓝色葡萄牙路面
+botania:pavement:3, 红色葡萄牙路面
+botania:pavement:4, 黄色葡萄牙路面
+botania:pavement:5, 绿色葡萄牙路面
+botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
+botania:biomestonea0slab:0, 变质森林石头台阶
+botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
+botania:biomestonea1slab:0, 变质平原石头台阶
+botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
+botania:biomestonea2slab:0, 变质高山石头台阶
+botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
+botania:biomestonea3slab:0, 变质菌丝石头台阶
+botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
+botania:biomestonea4slab:0, 变质沼泽石头台阶
+botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
+botania:biomestonea5slab:0, 变质沙漠石头台阶
+botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
+botania:biomestonea6slab:0, 变质雪原石头台阶
+botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
+botania:biomestonea7slab:0, 变质高原石头台阶
+botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
+botania:biomestonea8slab:0, 变质森林圆石台阶
+botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
+botania:biomestonea9slab:0, 变质平原圆石台阶
+botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
+botania:biomestonea10slab:0, 变质高山圆石台阶
+botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
+botania:biomestonea11slab:0, 变质菌丝圆石台阶
+botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
+botania:biomestonea12slab:0, 变质沼泽圆石台阶
+botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
+botania:biomestonea13slab:0, 变质沙漠圆石台阶
+botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
+botania:biomestonea14slab:0, 变质雪原圆石台阶
+botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
+botania:biomestonea15slab:0, 变质高原圆石台阶
+botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
+botania:biomestoneb0slab:0, 变质森林石砖台阶
+botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
+botania:biomestoneb1slab:0, 变质平原石砖台阶
+botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
+botania:biomestoneb2slab:0, 变质高山石砖台阶
+botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
+botania:biomestoneb3slab:0, 变质菌丝石砖台阶
+botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
+botania:biomestoneb4slab:0, 变质沼泽石砖台阶
+botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
+botania:biomestoneb5slab:0, 变质沙漠石砖台阶
+botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
+botania:biomestoneb6slab:0, 变质雪原石砖台阶
+botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
+botania:biomestoneb7slab:0, 变质高原石砖台阶
+botania:biomestonea0wall:0, 变质森林石墙
+botania:biomestonea0wall:1, 变质平原石墙
+botania:biomestonea0wall:2, 变质高山石墙
+botania:biomestonea0wall:3, 变质菌丝石墙
+botania:biomestonea0wall:4, 变质沼泽石墙
+botania:biomestonea0wall:5, 变质沙漠石墙
+botania:biomestonea0wall:6, 变质雪原石墙
+botania:biomestonea0wall:7, 变质高原石墙
+botania:pavement0stairs, tile.pavement0Stairs.name
+botania:pavement0slab:0, 白色葡萄牙台阶
+botania:pavement1stairs, tile.pavement1Stairs.name
+botania:pavement1slab:0, 黑色葡萄牙台阶
+botania:pavement2stairs, tile.pavement2Stairs.name
+botania:pavement2slab:0, 蓝色葡萄牙台阶
+botania:pavement3stairs, tile.pavement3Stairs.name
+botania:pavement3slab:0, 红色葡萄牙台阶
+botania:pavement4stairs, tile.pavement4Stairs.name
+botania:pavement4slab:0, 黄色葡萄牙台阶
+botania:pavement5stairs, tile.pavement5Stairs.name
+botania:pavement5slab:0, 绿色葡萄牙台阶
+botania:shimmerrock0slab:0, 微光石台阶
+botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
+botania:shimmerwoodplanks0slab:0, 微光木板台阶
+botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
+botania:managlasspane, tile.manaGlassPane.name
+botania:elfglasspane, tile.elfGlassPane.name
+botania:bifrostpermpane, tile.bifrostPermPane.name
 compactmachines3:tunnel, 接口
 compactmachines3:redstonetunnel, 红石接口
 compactmachines3:wall, 紧实的压缩空间壁
@@ -7594,27 +7114,6 @@ mysticalagradditions:prudentium_paxel, §a初级精华全能工具
 mysticalagradditions:intermedium_paxel, §6中级精华全能工具
 mysticalagradditions:superium_paxel, §b高级精华全能工具
 mysticalagradditions:supremium_paxel, §c终极精华全能工具
-storagedrawers:upgrade_template, 升级模板
-storagedrawers:upgrade_storage:0, 抽屉容量升级（I）
-storagedrawers:upgrade_storage:1, 抽屉容量升级（II）
-storagedrawers:upgrade_storage:2, 抽屉容量升级（III）
-storagedrawers:upgrade_storage:3, 抽屉容量升级（IV）
-storagedrawers:upgrade_storage:4, 抽屉容量升级（V）
-storagedrawers:upgrade_one_stack, 存储降级
-storagedrawers:upgrade_status:0, 状态显示升级（I）
-storagedrawers:upgrade_status:1, 状态显示升级（II）
-storagedrawers:upgrade_void, 清空升级
-storagedrawers:upgrade_conversion, 转换升级
-storagedrawers:upgrade_creative:0, 创造模式容量升级
-storagedrawers:upgrade_creative:1, 创造模式取出升级
-storagedrawers:upgrade_redstone:0, 红石升级
-storagedrawers:upgrade_redstone:1, 红石升级（最大）
-storagedrawers:upgrade_redstone:2, 红石升级（最小）
-storagedrawers:drawer_key, 抽屉钥匙
-storagedrawers:shroud_key, 屏蔽钥匙
-storagedrawers:personal_key, 私人钥匙
-storagedrawers:quantify_key, 量化钥匙
-storagedrawers:tape, 打包带
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
@@ -7665,6 +7164,27 @@ storagedrawers:customdrawers:2, 2x2 镶框抽屉
 storagedrawers:customdrawers:3, 1x2 小型镶框抽屉
 storagedrawers:customdrawers:4, 2x2 小型镶框抽屉
 storagedrawers:customtrim, 镶框
+storagedrawers:upgrade_template, 升级模板
+storagedrawers:upgrade_storage:0, 抽屉容量升级（I）
+storagedrawers:upgrade_storage:1, 抽屉容量升级（II）
+storagedrawers:upgrade_storage:2, 抽屉容量升级（III）
+storagedrawers:upgrade_storage:3, 抽屉容量升级（IV）
+storagedrawers:upgrade_storage:4, 抽屉容量升级（V）
+storagedrawers:upgrade_one_stack, 存储降级
+storagedrawers:upgrade_status:0, 状态显示升级（I）
+storagedrawers:upgrade_status:1, 状态显示升级（II）
+storagedrawers:upgrade_void, 清空升级
+storagedrawers:upgrade_conversion, 转换升级
+storagedrawers:upgrade_creative:0, 创造模式容量升级
+storagedrawers:upgrade_creative:1, 创造模式取出升级
+storagedrawers:upgrade_redstone:0, 红石升级
+storagedrawers:upgrade_redstone:1, 红石升级（最大）
+storagedrawers:upgrade_redstone:2, 红石升级（最小）
+storagedrawers:drawer_key, 抽屉钥匙
+storagedrawers:shroud_key, 屏蔽钥匙
+storagedrawers:personal_key, 私人钥匙
+storagedrawers:quantify_key, 量化钥匙
+storagedrawers:tape, 打包带
 stygian:endlog, Wyrmwood Log
 stygian:endplanks, Wyrmwood Planks
 stygian:endleaves, Wyrmwood Leaves
@@ -7729,71 +7249,6 @@ tombstone:advancement:2, [null]
 tombstone:advancement:3, [null]
 tombstone:advancement:4, [null]
 tombstone:advancement:5, [null]
-voidcraft:blockvoidcrystal, tile.voidcraft.blockvoidcrystal.name
-voidcraft:orevoidcrystal, tile.voidcraft.orevoidcrystal.name
-voidcraft:blockfakebedrock, tile.voidcraft.blockfakebedrock.name
-voidcraft:blockfakebedrockfarmland, tile.voidcraft.blockfakebedrockfarmland.name
-voidcraft:blockfakebedrockfence, tile.voidcraft.blockfakebedrockfence.name
-voidcraft:blockfakebedrockstairs, tile.voidcraft.blockfakebedrockstairs.name
-voidcraft:blocknobreak, tile.voidcraft.blocknobreak.name
-voidcraft:blockvoidbrick, tile.voidcraft.blockvoidbrick.name
-voidcraft:blockvoidfence, tile.voidcraft.blockvoidfence.name
-voidcraft:blockvoidstairs, tile.voidcraft.blockvoidstairs.name
-voidcraft:aiblock, tile.voidcraft.aiblock.name
-voidcraft:blockrealityhole, tile.voidcraft.blockrealityhole.name
-voidcraft:ritualblock, tile.voidcraft.ritualblock.name
-voidcraft:cosmicmaterial, tile.voidcraft.cosmicmaterial.name
-voidcraft:starforge, tile.voidcraft.starforge.name
-voidcraft:starforgestation, tile.voidcraft.starforgestation.name
-voidcraft:blockportalvoid, tile.voidcraft.blockportalvoid.name
-voidcraft:blockportalxia, tile.voidcraft.blockportalxia.name
-voidcraft:firevoid, tile.voidcraft.firevoid.name
-voidcraft:voidmacerator, tile.voidcraft.voidmacerator.name
-voidcraft:voidblastfurnace, tile.voidcraft.voidblastfurnace.name
-voidcraft:heimdall, tile.voidcraft.heimdall.name
-voidcraft:voidbox, tile.voidcraft.voidbox.name
-voidcraft:voidinfuserinert, tile.voidcraft.voidinfuserinert.name
-voidcraft:voidinfuser, tile.voidcraft.voidinfuser.name
-voidcraft:voidicgen, tile.voidcraft.voidicgen.name
-voidcraft:voidiccable, tile.voidcraft.voidiccable.name
-voidcraft:voidiccharger, tile.voidcraft.voidiccharger.name
-voidcraft:realitystabilizer, tile.voidcraft.realitystabilizer.name
-voidcraft:voidicalchemytable, tile.voidcraft.voidicalchemytable.name
-voidcraft:realityteleporterblock, tile.voidcraft.realityteleporterblock.name
-voidcraft:voidicanchor, tile.voidcraft.voidicanchor.name
-voidcraft:voidiccrystallizer, tile.voidcraft.voidiccrystallizer.name
-voidcraft:etherealplant, tile.voidcraft.etherealplant.name
-voidcraft:blockspellicespike, tile.voidcraft.blockspellicespike.name
-voidcraft:creationforge, tile.voidcraft.creationforge.name
-voidcraft:creationforge_ray, tile.voidcraft.creationforge_ray.name
-voidcraft:blockfakebedrockhalfslab:0, tile.voidcraft.blockfakebedrockhalfslab.name
-voidcraft:blockvoidbrickhalfslab:0, tile.voidcraft.blockvoidbrickhalfslab.name
-voidcraft:voidpickaxe, item.voidcraft.voidpickaxe.name
-voidcraft:voidshovel, item.voidcraft.voidshovel.name
-voidcraft:voidaxe, item.voidcraft.voidaxe.name
-voidcraft:voidsword, item.voidcraft.voidsword.name
-voidcraft:voidhoe, item.voidcraft.voidhoe.name
-voidcraft:angelicsword, item.voidcraft.angelicsword.name
-voidcraft:spectrepickaxe, item.voidcraft.spectrepickaxe.name
-voidcraft:spectreaxe, item.voidcraft.spectreaxe.name
-voidcraft:spectrespade, item.voidcraft.spectrespade.name
-voidcraft:spectrehoe, item.voidcraft.spectrehoe.name
-voidcraft:chainsword, item.voidcraft.chainsword.name
-voidcraft:moltensword, item.voidcraft.moltensword.name
-voidcraft:archsword, item.voidcraft.archsword.name
-voidcraft:demonsword, item.voidcraft.demonsword.name
-voidcraft:starforgedsword, item.voidcraft.starforgedsword.name
-voidcraft:starforgedpickaxe, item.voidcraft.starforgedpickaxe.name
-voidcraft:starforgedaxe, item.voidcraft.starforgedaxe.name
-voidcraft:starforgedshovel, item.voidcraft.starforgedshovel.name
-voidcraft:voidhelmet, item.voidcraft.voidhelmet.name
-voidcraft:voidchest, item.voidcraft.voidchest.name
-voidcraft:voidlegs, item.voidcraft.voidlegs.name
-voidcraft:voidboots, item.voidcraft.voidboots.name
-voidcraft:xiahelmet:0, item.voidcraft.xiahelmet.name
-voidcraft:xiachest:0, item.voidcraft.xiachest.name
-voidcraft:xialegs:0, item.voidcraft.xialegs.name
-voidcraft:xiaboots:0, item.voidcraft.xiaboots.name
 voidcraft:blockvoidfluid, tile.voidcraft.blockvoidfluid.name
 voidcraft:blockacidfluid, tile.voidcraft.blockacidfluid.name
 voidcraft:blockarcanesludgefluid, tile.voidcraft.blockarcanesludgefluid.name
@@ -7845,6 +7300,71 @@ voidcraft:etherealfruit_emerald, item.voidcraft.etherealfruit_emerald.name
 voidcraft:etherealfruit_diamond, item.voidcraft.etherealfruit_diamond.name
 voidcraft:dreambed, item.voidcraft.dreambed.name
 voidcraft:creativevoidbucket, item.voidcraft.creativevoidbucket.name
+voidcraft:voidpickaxe, item.voidcraft.voidpickaxe.name
+voidcraft:voidshovel, item.voidcraft.voidshovel.name
+voidcraft:voidaxe, item.voidcraft.voidaxe.name
+voidcraft:voidsword, item.voidcraft.voidsword.name
+voidcraft:voidhoe, item.voidcraft.voidhoe.name
+voidcraft:angelicsword, item.voidcraft.angelicsword.name
+voidcraft:spectrepickaxe, item.voidcraft.spectrepickaxe.name
+voidcraft:spectreaxe, item.voidcraft.spectreaxe.name
+voidcraft:spectrespade, item.voidcraft.spectrespade.name
+voidcraft:spectrehoe, item.voidcraft.spectrehoe.name
+voidcraft:chainsword, item.voidcraft.chainsword.name
+voidcraft:moltensword, item.voidcraft.moltensword.name
+voidcraft:archsword, item.voidcraft.archsword.name
+voidcraft:demonsword, item.voidcraft.demonsword.name
+voidcraft:starforgedsword, item.voidcraft.starforgedsword.name
+voidcraft:starforgedpickaxe, item.voidcraft.starforgedpickaxe.name
+voidcraft:starforgedaxe, item.voidcraft.starforgedaxe.name
+voidcraft:starforgedshovel, item.voidcraft.starforgedshovel.name
+voidcraft:voidhelmet, item.voidcraft.voidhelmet.name
+voidcraft:voidchest, item.voidcraft.voidchest.name
+voidcraft:voidlegs, item.voidcraft.voidlegs.name
+voidcraft:voidboots, item.voidcraft.voidboots.name
+voidcraft:xiahelmet:0, item.voidcraft.xiahelmet.name
+voidcraft:xiachest:0, item.voidcraft.xiachest.name
+voidcraft:xialegs:0, item.voidcraft.xialegs.name
+voidcraft:xiaboots:0, item.voidcraft.xiaboots.name
+voidcraft:blockvoidcrystal, tile.voidcraft.blockvoidcrystal.name
+voidcraft:orevoidcrystal, tile.voidcraft.orevoidcrystal.name
+voidcraft:blockfakebedrock, tile.voidcraft.blockfakebedrock.name
+voidcraft:blockfakebedrockfarmland, tile.voidcraft.blockfakebedrockfarmland.name
+voidcraft:blockfakebedrockfence, tile.voidcraft.blockfakebedrockfence.name
+voidcraft:blockfakebedrockstairs, tile.voidcraft.blockfakebedrockstairs.name
+voidcraft:blocknobreak, tile.voidcraft.blocknobreak.name
+voidcraft:blockvoidbrick, tile.voidcraft.blockvoidbrick.name
+voidcraft:blockvoidfence, tile.voidcraft.blockvoidfence.name
+voidcraft:blockvoidstairs, tile.voidcraft.blockvoidstairs.name
+voidcraft:aiblock, tile.voidcraft.aiblock.name
+voidcraft:blockrealityhole, tile.voidcraft.blockrealityhole.name
+voidcraft:ritualblock, tile.voidcraft.ritualblock.name
+voidcraft:cosmicmaterial, tile.voidcraft.cosmicmaterial.name
+voidcraft:starforge, tile.voidcraft.starforge.name
+voidcraft:starforgestation, tile.voidcraft.starforgestation.name
+voidcraft:blockportalvoid, tile.voidcraft.blockportalvoid.name
+voidcraft:blockportalxia, tile.voidcraft.blockportalxia.name
+voidcraft:firevoid, tile.voidcraft.firevoid.name
+voidcraft:voidmacerator, tile.voidcraft.voidmacerator.name
+voidcraft:voidblastfurnace, tile.voidcraft.voidblastfurnace.name
+voidcraft:heimdall, tile.voidcraft.heimdall.name
+voidcraft:voidbox, tile.voidcraft.voidbox.name
+voidcraft:voidinfuserinert, tile.voidcraft.voidinfuserinert.name
+voidcraft:voidinfuser, tile.voidcraft.voidinfuser.name
+voidcraft:voidicgen, tile.voidcraft.voidicgen.name
+voidcraft:voidiccable, tile.voidcraft.voidiccable.name
+voidcraft:voidiccharger, tile.voidcraft.voidiccharger.name
+voidcraft:realitystabilizer, tile.voidcraft.realitystabilizer.name
+voidcraft:voidicalchemytable, tile.voidcraft.voidicalchemytable.name
+voidcraft:realityteleporterblock, tile.voidcraft.realityteleporterblock.name
+voidcraft:voidicanchor, tile.voidcraft.voidicanchor.name
+voidcraft:voidiccrystallizer, tile.voidcraft.voidiccrystallizer.name
+voidcraft:etherealplant, tile.voidcraft.etherealplant.name
+voidcraft:blockspellicespike, tile.voidcraft.blockspellicespike.name
+voidcraft:creationforge, tile.voidcraft.creationforge.name
+voidcraft:creationforge_ray, tile.voidcraft.creationforge_ray.name
+voidcraft:blockfakebedrockhalfslab:0, tile.voidcraft.blockfakebedrockhalfslab.name
+voidcraft:blockvoidbrickhalfslab:0, tile.voidcraft.blockvoidbrickhalfslab.name
 wct:wct, 无线合成终端
 wct:wct_creative, 创造模式无线合成终端
 wct:magnet_card, 磁卡
@@ -8087,7 +7607,6 @@ betterbuilderswands:wandstone, 石质手杖
 betterbuilderswands:wandiron, 铁质手杖
 betterbuilderswands:wanddiamond, 钻石手杖
 betterbuilderswands:wandunbreakable, 不毁手杖
-patchouli:guide_book, 指南书
 botania_tweaks:compressed_tiny_potato_1, 微型土豆
 botania_tweaks:compressed_tiny_potato_2, 小型土豆
 botania_tweaks:compressed_tiny_potato_3, 中型土豆
@@ -8500,84 +8019,6 @@ chiselsandbits:block_bit:0, 雕刻碎屑 - 亮色Psi金属板
 chiselsandbits:block_bit:0, 雕刻碎屑 - 亮色Psi金属流光板
 chiselsandbits:block_bit:0, 雕刻碎屑 - 乌黑色Psi金属块
 chiselsandbits:block_bit:0, 雕刻碎屑 - 乳白色Psi金属块
-chiselsandbits:block_bit:0, 雕刻碎屑 - Embittered Bricks
-chiselsandbits:block_bit:0, 雕刻碎屑 - Scorned Bricks
-chiselsandbits:block_bit:0, 雕刻碎屑 - Garnet Ore
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nuummite Ore
-chiselsandbits:block_bit:0, 雕刻碎屑 - Tiger's Eye Ore
-chiselsandbits:block_bit:0, 雕刻碎屑 - Tourmaline Ore
-chiselsandbits:block_bit:0, 雕刻碎屑 - Bloodstone Ore
-chiselsandbits:block_bit:0, 雕刻碎屑 - Jasper Ore
-chiselsandbits:block_bit:0, 雕刻碎屑 - Malachite Ore
-chiselsandbits:block_bit:0, 雕刻碎屑 - Amethyst Ore
-chiselsandbits:block_bit:0, 雕刻碎屑 - Alexandrite Ore
-chiselsandbits:block_bit:0, 雕刻碎屑 - Silver Block
-chiselsandbits:block_bit:0, 雕刻碎屑 - Silver Ore
-chiselsandbits:block_bit:0, 雕刻碎屑 - Coquina
-chiselsandbits:block_bit:0, 雕刻碎屑 - Garnet Block
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nuummite Block
-chiselsandbits:block_bit:0, 雕刻碎屑 - Tiger's Eye Block
-chiselsandbits:block_bit:0, 雕刻碎屑 - Tourmaline Block
-chiselsandbits:block_bit:0, 雕刻碎屑 - Bloodstone Block
-chiselsandbits:block_bit:0, 雕刻碎屑 - Jasper Block
-chiselsandbits:block_bit:0, 雕刻碎屑 - Malachite Block
-chiselsandbits:block_bit:0, 雕刻碎屑 - Amethyst Block
-chiselsandbits:block_bit:0, 雕刻碎屑 - Alexandrite Block
-chiselsandbits:block_bit:0, 雕刻碎屑 - Salt Ore
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel
-chiselsandbits:block_bit:0, 雕刻碎屑 - Elder Wood 东/西
-chiselsandbits:block_bit:0, 雕刻碎屑 - Juniper Wood 东/西
-chiselsandbits:block_bit:0, 雕刻碎屑 - Yew Wood 东/西
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cypress Wood 东/西
-chiselsandbits:block_bit:0, 雕刻碎屑 - Elder Wood Planks
-chiselsandbits:block_bit:0, 雕刻碎屑 - Juniper Wood Planks
-chiselsandbits:block_bit:0, 雕刻碎屑 - Yew Wood Planks
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cypress Wood Planks
-chiselsandbits:block_bit:0, 雕刻碎屑 - Purifying Earth
-chiselsandbits:block_bit:0, 雕刻碎屑 - Witches Altar
-chiselsandbits:block_bit:0, 雕刻碎屑 - Infested Farmland
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cold Iron Block
-chiselsandbits:block_bit:0, 雕刻碎屑 - Graveyard Dirt
-chiselsandbits:block_bit:0, 雕刻碎屑 - Silver Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Silver Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Silver Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Silver Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Silver Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Silver Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Silver Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Silver Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Silver Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cold Iron Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cold Iron Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cold Iron Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cold Iron Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cold Iron Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cold Iron Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cold Iron Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cold Iron Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Cold Iron Block (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Nethersteel (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Coquina (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Coquina (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Coquina (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Coquina (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Scorned Bricks (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Scorned Bricks (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Scorned Bricks (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Scorned Bricks (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Scorned Bricks (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Scorned Bricks (Chiseled)
-chiselsandbits:block_bit:0, 雕刻碎屑 - Scorned Bricks (Chiseled)
 chiselsandbits:block_bit:0, 雕刻碎屑 - 空白符文
 chiselsandbits:block_bit:0, 雕刻碎屑 - 速度符文
 chiselsandbits:block_bit:0, 雕刻碎屑 - 效率符文
@@ -9039,8 +8480,6 @@ chiselsandbits:block_bit:0, 雕刻碎屑
 chiselsandbits:block_bit:0, 雕刻碎屑
 chiselsandbits:block_bit:0, 雕刻碎屑
 chiselsandbits:block_bit:0, 雕刻碎屑
-chiselsandbits:block_bit:0, 雕刻碎屑
-chiselsandbits:block_bit:0, 雕刻碎屑
 chiselsandbits:block_bit:0, 雕刻碎屑 - Stygian Acid
 chiselsandbits:block_bit:0, 雕刻碎屑
 chiselsandbits:tape_measure, 卷尺
@@ -9059,6 +8498,7 @@ chiselsandbits:chiseled_grass, 雕刻草块
 chiselsandbits:chiseled_snow, 雕刻雪块
 chiselsandbits:chiseled_fluid, 雕刻流体
 chiselsandbits:chiseled_leaves, 雕刻树叶
+patchouli:guide_book, 指南书
 mysticalmechanics:axle_iron, 铁质轴
 mysticalmechanics:gearbox_frame, 变速箱外壳
 mysticalmechanics:mergebox_frame, 合并框架
@@ -9083,8 +8523,8 @@ embers:plate_copper, 铜板
 embers:plate_lead, 铅板
 embers:plate_silver, 银板
 embers:plate_dawnstone, 黎明石板
-embers:plate_iron, 铁板
-embers:plate_gold, 金板
+embers:plate_iron, 铁盘
+embers:plate_gold, 金盘
 embers:brick_caminite, 方镁矾砖
 embers:blend_caminite, 方镁矾混合物
 embers:plate_caminite, 方镁矾板
