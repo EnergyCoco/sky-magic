@@ -6,8 +6,9 @@
   "input": {
     "item": "minecraft:diamond"
   },
-  "duration": 60,
   "required": 1,
+  "duration": 60,
   "harp": true,
-  "bubbling": true
+  "bubbling": true,
+  "consume": true
 }

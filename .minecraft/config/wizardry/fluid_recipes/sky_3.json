@@ -2,16 +2,25 @@
 	"type": "item",
 	"output": 
 		{
-			"item": "botania:manaresource",
-			"data":23
+			"item": "astralsorcery:blockcustomore",
+			"data":0
 		},
 			"input": {
-			"item": "minecraft:stone"
+			"item": "minecraft:stone",
+			"data":0
 		},
 	"extraInputs": [
     {
 		"item": "botania:manaresource",
 		"data":2
+    },
+    {
+      "item": "astralsorcery:itemusabledust",
+      "data": 0
+    },
+    {
+      "item": "astralsorcery:itemusabledust",
+      "data": 1
     }
 	],
 	"fluid": "astralsorcery.liquidstarlight",

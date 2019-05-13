@@ -1,9 +1,11 @@
 {
   "output": {
-    "item": "mysticalagriculture:marble_essence"
+    "item": "astralsorcery:blockmarble",
+    "data": 0
   },
   "input": {
-    "item": "minecraft:stone"
+    "item": "minecraft:stone",
+	"data":0
   },
   "duration": 20,
   "harp": true,
