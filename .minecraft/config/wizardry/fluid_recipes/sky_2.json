@@ -1,0 +1,11 @@
+{
+  "output": {
+    "item": "mysticalagriculture:marble_essence"
+  },
+  "input": {
+    "item": "minecraft:stone"
+  },
+  "duration": 20,
+  "harp": true,
+  "bubbling": true
+}

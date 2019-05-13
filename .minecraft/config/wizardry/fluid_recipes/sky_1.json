@@ -1,0 +1,12 @@
+{
+  "output": {
+    "item": "botania:manaresource",
+	"data":23
+  },
+  "input": {
+    "item": "minecraft:redstone"
+  },
+  "duration": 60,
+  "harp": true,
+  "bubbling": true
+}

@@ -1,0 +1,22 @@
+{
+	"type": "item",
+	"output": 
+		{
+			"item": "botania:manaresource",
+			"data":23
+		},
+			"input": {
+			"item": "minecraft:stone"
+		},
+	"extraInputs": [
+    {
+		"item": "botania:manaresource",
+		"data":2
+    }
+	],
+	"fluid": "astralsorcery.liquidstarlight",
+	"duration": 480,
+	"required": 9,
+	"consume": true,
+	"explode": true
+}
