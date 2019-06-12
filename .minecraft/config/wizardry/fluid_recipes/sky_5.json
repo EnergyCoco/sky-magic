@@ -1,0 +1,31 @@
+{
+	"output": 
+		{	
+			"item": "contenttweaker:starmetal_material"
+		},
+			"input": {
+			"item": "astralsorcery:itemcraftingcomponent",
+			"data":1
+		},
+	"extraInputs": [
+    {
+		"item": "astralsorcery:itemcraftingcomponent",
+		"data":1
+    },
+    {
+		"item": "astralsorcery:itemcraftingcomponent",
+		"data":1
+    },
+    {
+		"item": "astralsorcery:itemcraftingcomponent",
+		"data":1
+    }
+	],
+	"fluid": "astralsorcery.liquidstarlight",
+	"duration": 60,
+	"required": 1,
+	"consume": true,
+	"explode": true,
+	"harp": true,
+	"bubbling": true
+}

@@ -1,0 +1,24 @@
+{
+	"output": 
+		{	
+			"item": "redstonearsenal:material",
+			"data":0,
+			"count":2
+		},
+			"input": {
+			"type": "forge:ore_dict",
+			"ore": "dustElectrum"
+		},
+	"extraInputs": [
+    {
+		"type": "forge:ore_dict",
+		"ore": "dustElectrum"
+    }
+	],
+	"fluid": "redstone",
+	"duration": 60,
+	"required": 1,
+	"consume": true,
+	"harp": true,
+	"bubbling": true
+}

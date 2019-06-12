@@ -1,2 +1,11 @@
 
-item.contenttweaker.mana_powder.name=Mana Powder
+item.contenttweaker.starmetal_material.name=Starmetal material
+item.contenttweaker.terrasteel_material.name=Terrasteel material
+item.contenttweaker.manasteel_material.name=Manasteel material
+item.contenttweaker.elementium_material.name=Elementium material
+
+tile.contenttweaker.arcane_frame.name=Infusion frame
+tile.contenttweaker.bloodstain_frame.name=Bloodstain frame
+tile.contenttweaker.mana_frame.name=Mana frame
+tile.contenttweaker.natural_frame.name=Natural frame
+tile.contenttweaker.starlight_frame.name=Starlight frame

@@ -1,0 +1,81 @@
+Manifest-Version: 1.0
+Maven-Artifact: com.jamieswhiteshirt:clothesline-hooks:1.12.2-0.0.1.2
+FMLCorePlugin: com.jamieswhiteshirt.clothesline.hooks.plugin.FMLLoadin
+ gPlugin
+Timestamp: 1544279818422
+
+Name: com/jamieswhiteshirt/clothesline/hooks/ClientHooks.class
+SHA-256-Digest: jiAwNNydwpZNXHUKeH47sDYVLZHg9Vnz8SI5solZjAY=
+
+Name: META-INF/fml_cache_annotation.json
+SHA-256-Digest: awkoM6y+iumV+dHx0gQk8aMh/BbWxZq58WEczyC/Ndg=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/api/UseItemMovementEvent.
+ class
+SHA-256-Digest: FOIw1GHWsrt7qWytc2Sz2HHT8KwcLtDQP39LTuP1tCs=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/api/GetMouseOverEvent.cla
+ ss
+SHA-256-Digest: 2pcBZbB4ELCya2x/I3LdKZ6YiwbX48beb5ZQDRHkCNw=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/plugin/BytesTransformer.c
+ lass
+SHA-256-Digest: crtmzpKdoFHd93JN0pdASiH6WyC/lk4B6ulrlxKGg0Y=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/package-info.class
+SHA-256-Digest: +uhv98jmfJafdocjC4PLeLnoFI7Lue8AlBuYQ4QwfTY=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/ClotheslineHooks.class
+SHA-256-Digest: 7JjPTAAAsKweySbjl5adGYOtjdnP2xXxgTqokv7GI1w=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/plugin/ClassTransformatio
+ n.class
+SHA-256-Digest: y89SR3IqYDsSI/jF6Mrq9oMLElMOwv2RAcrrrITOFuA=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/plugin/package-info.class
+SHA-256-Digest: nI17KfKpNB2iT4pFRdJj6SLMS0DZlD+dXmWNJea6w2k=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/plugin/ClassNodeTransform
+ er.class
+SHA-256-Digest: q8EJWWd0S5Wt6iQHuqQD/K6ztuRy2+hNxhwL/I6+txQ=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/api/RenderEntitiesEvent.c
+ lass
+SHA-256-Digest: VmajuWiz0zG5LAgWgfg+uQoPJWDh4o7yYmux6Ai3G5A=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/plugin/FMLLoadingPlugin.c
+ lass
+SHA-256-Digest: 9RNf4SvupjnaKz8Rva5lZsenFX6/rbmPcDlTODE2/2g=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/plugin/TransformException
+ .class
+SHA-256-Digest: zwbyroAbc6vuH1pZ+RElqMWrIuZsMrH5Ow+2nD0R5o0=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/api/package-info.class
+SHA-256-Digest: t5g2YNZmz7AJpz4bZR0WLC+l7fBA0BlYhYiuJQfdd1k=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/plugin/Transformers.class
+SHA-256-Digest: quKmD16fjjVkyXbwCCtYFtc6qL4okjLzmvDTrr8kO7g=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/plugin/MethodNodeTransfor
+ mer.class
+SHA-256-Digest: yi97LCezqQ54xwdbWV3IsT9Mjvb1Lj0UDN4FXQ/+Dxg=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/plugin/ClassTransformer.c
+ lass
+SHA-256-Digest: VXuGYcuc2wNnP1oXgvN0klEUZCppHF636ODoEievFM0=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/api/MayPlaceBlockEvent.cl
+ ass
+SHA-256-Digest: trln0qZ5vXnd5z2scGzU6AooQzMsiiVMVCvBkDY/V7w=
+
+Name: META-INF/fml_cache_class_versions.json
+SHA-256-Digest: edC9T9U/1/FJSjvsQ3vrRCxlS76Q4H5nnxbpQNLJp+s=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/CommonHooks.class
+SHA-256-Digest: uXiNVyt9GG23TTKxzKwE18MreEP+yXFPtdyqiE0FbnA=
+
+Name: com/jamieswhiteshirt/clothesline/hooks/api/ClientStoppedUsingIte
+ mEvent.class
+SHA-256-Digest: rvwZF4Y9i8xGFHWGPfS4Pp80Upt/aPbPkZGA+Gofki4=
+

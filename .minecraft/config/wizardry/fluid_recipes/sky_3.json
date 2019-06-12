@@ -27,5 +27,7 @@
 	"duration": 480,
 	"required": 9,
 	"consume": true,
-	"explode": true
+	"explode": true,
+	"harp": true,
+	"bubbling": true
 }

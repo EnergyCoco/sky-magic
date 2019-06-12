@@ -1,0 +1,34 @@
+  "aspects": [
+    {
+      "name": "Alkimia",
+      "amount": 30
+    },
+    {
+      "name": "Victus",
+      "amount": 10
+    },
+    {
+      "name": "Praecantatio",
+      "amount": 10
+    },
+    {
+      "name": "Lux",
+      "amount": 5
+    },
+    {
+      "name": "Aversio",
+      "amount": 5
+    },
+    {
+      "name": "Terra",
+      "amount": 5
+    },
+    {
+      "name": "Aqua",
+      "amount": 5
+    }
+  ],
+  "key": "BIOMANCY",
+  "icon": "thaumic_arcana:textures/research/cat_biomancy.png",
+  "background": "thaumcraft:textures/gui/gui_research_back_7.jpg",
+}

@@ -46,6 +46,145 @@ false
 <p>Allow to edit gamerules via Admin Panel</p>
 </td></tr>
 <tr>
+<td><code>betterquesting.command.admin</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>admin commmand permission</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.admin.complete</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to force completes a quest for the given user</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.admin.default</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to saves/loads the current quest database to/from the global default directory</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.admin.delete</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to delete given quest(s) and progression data however it does not delete new world defaults</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.admin.edit</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to activate quest editing mode on and off</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.admin.hardcore</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to activate or not the use of hardcore lives</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.admin.lives</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to set lives to the given user</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.admin.purge</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to purge all hidden quests and progression data however it does not delete any in new world defaults</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.admin.reset</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to erases quest completion data for the given user</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.user</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>user commmand permission</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.user.hardcores</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to manually resyncs the local questing database with the server in case of potential desync issues</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.user.help</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to execute command which gives the player a copy of the in game starter guide.</p>
+</td></tr>
+<tr>
+<td><code>betterquesting.command.user.refresh</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Permission to manually resyncs the local questing database with the server in case of potential desync issues</p>
+</td></tr>
+<tr>
 <td><code>block.tap</code></td>
 <td><code>bool</code></td>
 <td class='true' colspan='2'><code>true</code></td>
@@ -326,6 +465,15 @@ true
 false 
 '>
 <p>Permission for blocks that players can right-click within claimed chunks</p>
+</td></tr>
+<tr>
+<td><code>ftbutilities.claims.block.interact.inspirations.glass_door</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
 </td></tr>
 <tr>
 <td><code>ftbutilities.claims.block.interact.minecraft.acacia_door</code></td>
@@ -735,6 +883,8 @@ false
 <tr><td><code>command.bdlib.dumpregistry</code></td><td>dumpregistry</td></tr>
 <tr><td><code>command.bdlib.oredistribution</code></td><td>/oredistribution &lt;范围&gt; [&lt;最小高度&gt;] [&lt;最大高度&gt;] [--file]</td></tr>
 <tr><td><code>command.betterbuilderswands.wandoops</code></td><td class='error' title='Invalid usage language key!'>/wandOops</td></tr>
+<tr><td><code>command.betterquesting.bq_admin</code></td><td class='error' title='Invalid usage language key!'>/bq_admin edit [true|false], /bq_admin hardcore [true|false], /bq_admin reset [all|&lt;quest_id&gt;] [username|uuid], /bq_admin complete &lt;quest_id&gt; [username|uuid], /bq_admin delete [all|&lt;quest_id&gt;], /bq_admin default [save|load|set] [file_name], /bq_admin lives [add|set|max|default] &lt;value&gt; [username|uuid], /bq_admin purge_hidden_quests</td></tr>
+<tr><td><code>command.betterquesting.bq_user</code></td><td class='error' title='Invalid usage language key!'>/bq_user help, /bq_user refresh, /bq_user hardcore</td></tr>
 <tr><td><code>command.blockdata</code></td><td>/blockdata &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;数据标签&gt;</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.help.bind</code></td><td>/bloodmagic bind [true|false] [玩家] ("?" 或者 "help" 查看帮助)</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.help.network</code></td><td>/bloodmagic network [吸取(syphon)|添加(add)|查看(get)|填充(fill)|填满(cap)] &lt;玩家&gt; [数量]</td></tr>
@@ -758,10 +908,18 @@ false
 <tr><td><code>command.bloodmagic.bloodmagic.teleposer.help.rmrf</code></td><td>/bloodmagic teleposer rmrf [ID|?|帮助]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.teleposer.help.teleport</code></td><td>/bloodmagic teleposer teleport [ID|?|帮助]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.teleposer.help.teleportfocus</code></td><td>/bloodmagic teleposer teleportfocus [ID|?|帮助]</td></tr>
+<tr><td><code>command.bnbgaminglib.bnb</code></td><td>/bnb &lt;hand|hotbar&gt;</td></tr>
+<tr><td><code>command.bonsaitrees.bonsaitrees</code></td><td>/bonsaitrees [子命令，留空显示可用子命令列表]</td></tr>
 <tr><td><code>command.botania.botania-open</code></td><td>&lt;entry&gt;</td></tr>
 <tr><td><code>command.botania.botania-share</code></td><td>&lt;entry&gt;</td></tr>
 <tr><td><code>command.botania_tweaks.botaniatweaks-debug-stats</code></td><td>用法：/botaniatweaks-debug-stats [flowerName | all | total]</td></tr>
 <tr><td><code>command.botania_tweaks.botaniatweaks-reset-stats</code></td><td>用法：/botaniatweaks-reset-stats [flowerName | all]</td></tr>
+<tr><td><code>command.bq_standard.bqs_advancement_dump</code></td><td class='error' title='Invalid usage language key!'>/bqs_advancement_dump</td></tr>
+<tr><td><code>command.bq_standard.bqs_loot</code></td><td class='error' title='Invalid usage language key!'>/bqs_loot default [save|load], /bqs_loot delete [all|&lt;loot_id&gt;]</td></tr>
+<tr><td><code>command.buildinggadgets.deleteblockmaps</code></td><td class='error' title='Invalid usage language key!'>DeleteBlockMaps &lt;player&gt;</td></tr>
+<tr><td><code>command.buildinggadgets.findblockmaps</code></td><td class='error' title='Invalid usage language key!'>FindBlockMaps &lt;player&gt;</td></tr>
+<tr><td><code>command.carryon.carryon</code></td><td class='error' title='Invalid usage language key!'>/carryon &lt;mode&gt;</td></tr>
+<tr><td><code>command.carryon.reloadscripts</code></td><td class='error' title='Invalid usage language key!'>/reloadscripts</td></tr>
 <tr><td><code>command.clear</code></td><td>/clear [玩家] [物品] [数据] [最大量] [数据标签]</td></tr>
 <tr><td><code>command.clone</code></td><td>/clone &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; [掩码模式] [复制模式]</td></tr>
 <tr><td><code>command.cofhcore.cofh</code></td><td class='error' title='Invalid usage language key!'>/cofh help</td></tr>
@@ -769,13 +927,14 @@ false
 <tr><td><code>command.cofhworld.cofhworld.reload</code></td><td>重新载入 CoFH World 配置</td></tr>
 <tr><td><code>command.cofhworld.cofhworld.version</code></td><td>cofhworld.version.usage</td></tr>
 <tr><td><code>command.compactmachines3.compactmachines3</code></td><td>/compactmachines3 [子命令，为命令列表留空]</td></tr>
-<tr><td><code>command.crafttweaker.crafttweaker</code></td><td class='error' title='Invalid usage language key!'>/crafttweaker biomeTypes | biomes | blockinfo | blockmaterial | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | conflict | copy | creativetab | discord | docs | dumpzs | enchants | entities | foods | give | hand | help | inventory | jeiCategories | json | liquids | log | materialparts | materials | mods | names | nbt | oredict | parts | parttypes | potions | recipeNames | recipes | reload | scripts | seeds | soundevent | soundtype | syntax | thaumcraftDump | ticmat | wiki | zslint</td></tr>
+<tr><td><code>command.crafttweaker.crafttweaker</code></td><td class='error' title='Invalid usage language key!'>/crafttweaker biomeTypes | biomes | blockinfo | blockmaterial | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | chiselGroups | conflict | copy | creativetab | discord | docs | dumpzs | enchants | entities | foods | give | hand | help | inspirations | inventory | jeiCategories | json | liquids | log | materialparts | materials | mods | names | nbt | oredict | parts | parttypes | potions | recipeNames | recipes | reload | scripts | seeds | soundevent | soundtype | syntax | thaumcraftDump | ticmat | wiki | zslint</td></tr>
 <tr><td><code>command.crafttweaker.ctgui</code></td><td class='error' title='Invalid usage language key!'>CTGUI &lt;id&gt;</td></tr>
 <tr><td><code>command.cyclopscore.cyclopscore</code></td><td class='error' title='Invalid usage language key!'>/cyclopscore &lt;ignite | debug | reloadresources | config | version | recursion&gt;</td></tr>
 <tr><td><code>command.cyclopscore.everlastingabilities</code></td><td class='error' title='Invalid usage language key!'>/everlastingabilities &lt;abilities | config | version&gt;</td></tr>
 <tr><td><code>command.debug</code></td><td>/debug &lt;start|stop&gt;</td></tr>
 <tr><td><code>command.defaultgamemode</code></td><td>/defaultgamemode &lt;模式&gt;</td></tr>
 <tr><td><code>command.difficulty</code></td><td>/difficulty &lt;新的难度&gt;</td></tr>
+<tr><td><code>command.dimensionalcontrol.teleportdim</code></td><td class='error' title='Invalid usage language key!'>teleportdim &lt;text&gt;</td></tr>
 <tr><td><code>command.effect</code></td><td>/effect &lt;玩家&gt; &lt;药水效果&gt; [秒数] [等级] [隐藏粒子] 或 /effect &lt;玩家&gt; clear</td></tr>
 <tr><td><code>command.enchant</code></td><td>/enchant &lt;玩家&gt; &lt;魔咒ID&gt; [等级]</td></tr>
 <tr><td><code>command.enderstorage.enderstorage.clear</code></td><td class='error' title='Invalid usage language key!'>Provides ability to clear a users EnderStorage.</td></tr>
@@ -890,6 +1049,8 @@ false
 <tr><td><code>command.kill</code></td><td>/kill [玩家|实体]</td></tr>
 <tr><td><code>command.locate</code></td><td>/locate &lt;结构&gt;</td></tr>
 <tr><td><code>command.me</code></td><td>/me &lt;动作...&gt;</td></tr>
+<tr><td><code>command.modularmachinery.mm-hand</code></td><td>/mm-hand</td></tr>
+<tr><td><code>command.modularmachinery.mm-syntax</code></td><td>/mm-syntax</td></tr>
 <tr><td><code>command.naturesaura.naaura</code></td><td>/naaura store|drain &lt;数量&gt; [范围] 或者 /naaura reset &lt;范围&gt;</td></tr>
 <tr><td><code>command.openmods.om_config_s</code></td><td class='error' title='Invalid usage language key!'>om_config_s save &lt;modid&gt; OR
 om_config_s help &lt;modid&gt; &lt;category&gt; &lt;name&gt; OR

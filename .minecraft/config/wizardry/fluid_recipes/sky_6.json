@@ -1,0 +1,32 @@
+{
+	"output": 
+		{	
+			"item": "thermalfoundation:material",
+			"data":101,
+			"count":4
+		},
+			"input": {
+			"type": "forge:ore_dict",
+			"ore": "dustSilver"
+		},
+	"extraInputs": [
+    {
+		"type": "forge:ore_dict",
+		"ore": "dustCopper"
+    },
+	{
+		"type": "forge:ore_dict",
+		"ore": "dustCopper"
+    },
+	{
+		"type": "forge:ore_dict",
+		"ore": "dustCopper"
+    }
+	],
+	"fluid": "redstone",
+	"duration": 60,
+	"required": 1,
+	"consume": true,
+	"harp": true,
+	"bubbling": true
+}

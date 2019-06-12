@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:0
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -88,6 +88,7 @@ key_key.hotbar.9:10
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
 key_keybind.baublesinventory:48
+key_key.betterquesting.quests:41
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
@@ -97,9 +98,11 @@ key_keybind.hammercorerenderstack:77
 key_key.ironbackpacks.equip:35
 key_key.ironbackpacks.open:23
 key_psimisc.keybind:46
+key_neat.keybind.toggle:0
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:47
 key_key.open_wct.desc:0
+key_smoothfont.key.guiOpen:199
 key_key.toggle_focus.desc:15
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -113,10 +116,15 @@ key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 key_bbw.key.mode:50
 key_bbw.key.fluidmode:33
-key_key.description.jump_to_bar:0
-key_key.description.enable_bar:0
-key_key.description.place_item:0
 key_nei.options.keys.gui.botania_corporea_request:46
+key_key.settings_menu:74
+key_key.range:181
+key_key.undo:22
+key_key.anchor:35
+key_key.fuzzy:0
+key_key.connected_area:0
+key_key.rotate_mirror:55
+key_key.carry.desc:42
 key_mod.chiselsandbits.chiselmode.single:0
 key_mod.chiselsandbits.chiselmode.snap2:0
 key_mod.chiselsandbits.chiselmode.snap4:0
@@ -157,6 +165,7 @@ key_key.i18nmod.weblate_key.desc:38
 key_key.i18nmod.mcmod_key.desc:50
 key_key.i18nmod.reload_key.desc:19
 key_key.categories.naming:49
+key_invtweaks.key.sort:19
 key_keys.techreborn.config:25
 key_tombstone.message.knowledge_of_death:0
 key_key.craftingGrid:46

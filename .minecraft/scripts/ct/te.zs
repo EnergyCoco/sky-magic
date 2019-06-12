@@ -1,3 +1,6 @@
+//各种粉
+recipes.remove(<thermalfoundation:material:101>);
+recipes.remove(<redstonearsenal:material>);
 //机械框架
 recipes.remove(<thermalexpansion:frame>);
 recipes.addShaped(<thermalexpansion:frame>,[[<naturesaura:infused_iron>,<botania:managlass>,<naturesaura:infused_iron>],[<botania:managlass>,<ore:gearManasteel>,<botania:managlass>],[<naturesaura:infused_iron>,<botania:managlass>,<naturesaura:infused_iron>]]);
